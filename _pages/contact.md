@@ -12,7 +12,5 @@ author_profile: true
 <!-- [Chinese CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian_chineseCV.pdf) -->
 
 <!-- # Contact -->
-Institute of Information Engineering, Chinese Academy of Sciences<br>
-89-A, Minzhuang Rd, Haidian District,
-Beijing, 100093, China<br>
-Email: shengjiawei [at] iie.ac.cn
+Beihang University<br>
+Email: liqian@act.buaa.edu.cn
