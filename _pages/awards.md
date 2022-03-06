@@ -2,6 +2,18 @@
 title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
+redirect_from:
+  - /awards/
+  - /awards.html
 ---
-* **National Scholarship for Ph.D. student** (RMB ¥30,000), Ministry of Education of P.R.China, 2018.
-* **Merit Student**, University of Chinese Academy of Sciences, 2018.
+
+
+* The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
+
+* The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
+
+* The **Top 1 Winner** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
+
+* The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
+
+* The **Science and Technology Progress Award** of Big Data Center of State Grid Corporation of China, 2021.
