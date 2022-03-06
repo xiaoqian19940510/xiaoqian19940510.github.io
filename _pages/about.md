@@ -17,40 +17,27 @@ My main research interests include event extraction, information extraction and 
 
 
 
-- **A survey on text classification: From shallow to deep learning**.<br>
-  **Qian Li**, Hao Peng, Jianxin Li, Congying Xia, Renyu Yang, Lichao Sun, Philip S Yu, Lifang He.
+
+
+- **<a href="https://arxiv.org/pdf/2008.00364.pdf">A survey on text classification: From shallow to deep learning, TIST 2021 </a>**.<br>
+  **Qian Li**, Hao Peng, Jianxin Li, Congying Xia, Renyu Yang, Lichao Sun, Philip S Yu, Lifang He.(<a href="https://github.com/xiaoqian19940510/text-classification-surveys">Github</a>)
   *ACM Transactions on Intelligent Systems and Technology (TIST)*.
 
 
-
-
- <details/>
-<summary/>
-  <a href="https://ieeexplore.ieee.org/abstract/document/9664363">Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations, TASLP 2021 </a>.<br> <i>  **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S. Yu, and Zheng Wang(<a href="https://github.com/xiaoqian19940510/TASLP-EAREE">Github</a>)</summary><blockquote><p align="justify">
-</p></blockquote></details>
-
-
-
-- **Reinforcement learning-based dialogue guided event extraction to exploit argument relations**.<br>
-  **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S Yu, Zheng Wang.
+- **<a href="https://ieeexplore.ieee.org/abstract/document/9664363">Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations, TASLP 2021 </a>**.<br>
+  **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S Yu, Zheng Wang.(<a href="https://github.com/xiaoqian19940510/TASLP-EAREE">Github</a>)
   *IEEE Transactions on Audio, Speech, and Language Processing(TASLP)*.
 
-- **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction**.<br>
+- **<a href="https://aclanthology.org/2021.findings-acl.14/">CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction, ACL/IJCNLP (Findings) 2021 </a>**.<br>
   Jiawei Sheng, Shu Guo, Bowen Yu, **Qian Li**, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
   *In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A)*.
-
-- **A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task**.<br>
+  
+- **<a href="https://direct.mit.edu/dint/article/3/3/444/100995/A-Joint-Learning-Framework-for-the-CCKS-2020">A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task,  Data Intell. 2021 </a>**.<br>
   Jiawei Sheng, **Qian Li**, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He, Tingwen Liu, Hongbo Xu. *Data Intelligence (DI 2021, EI)*.
-
-- **A Compact Survey on Event Extraction: Approaches and Applications**.<br>
+  
+- **<a href="https://arxiv.org/abs/2107.02126">A Compact Survey on Event Extraction: Approaches and Applications,  ArXiv 2021 </a>**.<br>
   **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *ArXiv 2021*
 
-
-<details/>
-<summary/>
-<a href="https://arxiv.org/abs/2107.02126">	A Compact Survey on Event Extraction: Approaches and Applications, arxiv 2021</a>.<br>  <i>**Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu.
-</a></summary><blockquote><p align="justify">
-</p></blockquote></details>
 
 
 ## Competitions
