@@ -39,19 +39,19 @@ My main research interests include event extraction, information extraction and 
 
 ## Competitions
 
-[CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 
+- [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 
 
-[CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 
+- [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 
 
 
 ## Academic and social services
 
-Procedure Committee member and reviewer of Complex & Intelligent Systems (CAIS).
+- Procedure Committee member and reviewer of Complex & Intelligent Systems (CAIS).
 
-Procedure Committee member and reviewer of Transactions on the Web (TWEB).
+- Procedure Committee member and reviewer of Transactions on the Web (TWEB).
 
 ## Internship
 
-Samsung Research Institute in Beijing, Bixiby research and development, 2018.01-2018.09.
+- Samsung Research Institute in Beijing, Bixiby research and development, 2018.01-2018.09.
 
 
