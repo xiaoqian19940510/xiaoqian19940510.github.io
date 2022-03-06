@@ -16,9 +16,20 @@ My main research interests include event extraction, information extraction and 
 # Publications
 
 
+
 - **A survey on text classification: From shallow to deep learning**.<br>
   **Qian Li**, Hao Peng, Jianxin Li, Congying Xia, Renyu Yang, Lichao Sun, Philip S Yu, Lifang He.
   *ACM Transactions on Intelligent Systems and Technology (TIST)*.
+
+
+
+
+ <details/>
+<summary/>
+  <a href="https://ieeexplore.ieee.org/abstract/document/9664363">Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations, TASLP 2021 </a>.<br> <i>  **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S. Yu, and Zheng Wang(<a href="https://github.com/xiaoqian19940510/TASLP-EAREE">Github</a>)</summary><blockquote><p align="justify">
+</p></blockquote></details>
+
+
 
 - **Reinforcement learning-based dialogue guided event extraction to exploit argument relations**.<br>
   **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S Yu, Zheng Wang.
@@ -35,6 +46,11 @@ My main research interests include event extraction, information extraction and 
   **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *ArXiv 2021*
 
 
+<details/>
+<summary/>
+<a href="https://arxiv.org/abs/2107.02126">	A Compact Survey on Event Extraction: Approaches and Applications, arxiv 2021</a>.<br>  <i>**Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu.
+</a></summary><blockquote><p align="justify">
+</p></blockquote></details>
 
 
 ## Competitions
