@@ -16,14 +16,14 @@ author_profile: true
 - <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/108806122" target="_blank">域适应方法：解决目标任务数据不足</a><br>
 
 
-- <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/108699371">2019年Philip S. Yu团队的图神经网络综述</a><br>
+- <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/108699371" target="_blank">2019年Philip S. Yu团队的图神经网络综述</a><br>
 
 
-- <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/106026106">知识图谱推理综述</a><br>
+- <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/106026106" target="_blank">知识图谱推理综述</a><br>
 
 
-- <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/101195300">知识图谱学习思维导图</a><br>
+- <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/101195300" target="_blank">知识图谱学习思维导图</a><br>
 
 
-- <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/90259817">多轮对话系统（预定电影票的多轮对话系统）</a><br>
+- <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/90259817" target="_blank">多轮对话系统（预定电影票的多轮对话系统）</a><br>
 
