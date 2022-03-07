@@ -49,9 +49,9 @@ My main research interests include event extraction, information extraction and 
 
 ## Academic and social services
 
-- Procedure Committee member and reviewer of Complex & Intelligent Systems (CAIS).
+- The reviewer of Complex & Intelligent Systems (CAIS, SCI Q2).
 
-- Procedure Committee member and reviewer of Transactions on the Web (TWEB).
+- The reviewer of Transactions on the Web (TWEB, SCI Q2).
 
 ## Internship
 
