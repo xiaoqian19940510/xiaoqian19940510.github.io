@@ -11,7 +11,7 @@ author_profile: true
 
 * <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/108830857" target="_blank">买标注数据太贵！自己标太麻烦了！ 自监督对比学习帮帮你</a>.<br>
 
-* <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/108830964" target="_blank">[文本太长，Transformer用不了怎么办] </a>.<br>
+* <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/108830964" target="_blank">文本太长，Transformer用不了怎么办 </a>.<br>
 
 - <a href="https://blog.csdn.net/xiaoqianlizhen/article/details/108806122" target="_blank">域适应方法：解决目标任务数据不足 </a>.<br>
 
