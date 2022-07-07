@@ -57,7 +57,7 @@ My main research interests include event extraction, information extraction and 
 
 - The reviewer of CIKM (CCF-B, the top conference of data mining).
 
-- The reviewer of CCL (CCF-C, the most authoritative and influential academic conference in the field of NLP in China ).
+- The reviewer of CCL (CCF-C, the most authoritative and influential academic conference of NLP in China ).
 
 
 ### Journal
