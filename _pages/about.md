@@ -61,11 +61,13 @@ My main research interests include event extraction, information extraction and 
 
 
 ### Journal
-- The reviewer of Neural Networks (CCF-B, SCI Q1).
+- The reviewer of Neural Networks (NN, CCF-B, SCI Q1).
+
+- The reviewer of Complex & Intelligent Systems (CAIS, SCI Q1).
 
 - The reviewer of Transactions on the Web (TWEB, CCF-B, SCI Q2).
 
-- The reviewer of Complex & Intelligent Systems (CAIS, SCI Q2).
+
 
 
 
@@ -73,5 +75,7 @@ My main research interests include event extraction, information extraction and 
 ## Internship
 
 - Samsung Research Institute in Beijing, Bixiby research and development, 2018.01-2018.09.
+
+- National Computer Network Emergency Response Technical Team/Coordination Center of China, NLP algorithm engineer, 2020.01-2021.01.
 
 
