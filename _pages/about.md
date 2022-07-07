@@ -51,13 +51,19 @@ My main research interests include event extraction, information extraction and 
 
 ## Academic and social services
 
-- The reviewer of EMNLP (CCF-B).
+### Conference
 
-- The reviewer of CIKM (CCF-B).
+- The reviewer of EMNLP (CCF-B, the top conference of NLP).
 
-- The reviewer of CCL (CCF-C).
+- The reviewer of CIKM (CCF-B, the top conference of data mining).
 
-- The reviewer of Transactions on the Web (TWEB, SCI Q2).
+- The reviewer of CCL (CCF-C, the most authoritative and influential academic conference in the field of NLP in China ).
+
+
+### Journal
+- The reviewer of Neural Networks (CCF-B, SCI Q1).
+
+- The reviewer of Transactions on the Web (TWEB, CCF-B, SCI Q2).
 
 - The reviewer of Complex & Intelligent Systems (CAIS, SCI Q2).
 
