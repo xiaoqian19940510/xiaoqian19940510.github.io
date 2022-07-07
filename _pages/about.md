@@ -55,7 +55,7 @@ My main research interests include event extraction, information extraction and 
 
 - The reviewer of CIKM (CCF-B).
 
-- The reviewer of CCKS (CCF-C).
+- The reviewer of CCL (CCF-C).
 
 - The reviewer of Transactions on the Web (TWEB, SCI Q2).
 
