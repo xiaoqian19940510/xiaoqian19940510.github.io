@@ -38,6 +38,8 @@ My main research interests include event extraction, information extraction and 
 - **<a href="https://arxiv.org/abs/2107.02126" target="_blank">A Compact Survey on Event Extraction: Approaches and Applications,  ArXiv 2021 </a>**.<br>
   **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *ArXiv 2021*
 
+- **<a href="https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3" target="_blank">A Dual-Classifier Model for General Fine-Grained Event Detection Task,  China Conference on Knowledge Graph and Semantic Computing (CCKS), 2022 </a>**.<br>
+  Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *Data Intelligence (CCKS 2022)*.
 
 
 ## Competitions
