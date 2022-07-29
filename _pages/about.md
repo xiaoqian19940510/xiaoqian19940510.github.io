@@ -39,7 +39,7 @@ My main research interests include event extraction, information extraction and 
   **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *ArXiv 2021*
 
 - **<a href="https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3" target="_blank">A Dual-Classifier Model for General Fine-Grained Event Detection Task,  CCKS, 2022 </a>**.<br>
-  Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *Data Intelligence (CCKS 2022)*.
+  Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *CCKS 2022*.
 
 
 ## Competitions
@@ -66,6 +66,7 @@ My main research interests include event extraction, information extraction and 
 - The reviewer of Complex & Intelligent Systems (CAIS, SCI Q1).
 
 - The reviewer of Transactions on the Web (TWEB, CCF-B, SCI Q2).
+- Others (JJCIT, etc.)
 
 
 
