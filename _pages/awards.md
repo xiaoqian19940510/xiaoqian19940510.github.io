@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 
+
+* The **Top 1 Winner** of CodaLab Competition: MAVEN. 2021.
+
 * The **Top 1 Winner** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
 
 * The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
