@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a PhD degree (after two years) in the [Beihang University](https://buaa.edu.cn/). I received my Bachelor’s degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016, and my Master's degree from [Beijing University of Posts and Telccommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.  Up to now, I have published several papers in the top conferences and Journal (e.g., TASLP, TIST, TWEB, ACL, CIKM, etc.), and won prizes in data competitions. 
+I am currently pursuing a PhD degree (after two years) in the [Beihang University](https://buaa.edu.cn/). I received my Bachelor’s degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016, and my Master's degree from [Beijing University of Posts and Telccommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.  Up to now, I have published several papers in the top conferences and Journal (e.g., TASLP, TNNLS, TIST, TWEB, ACL, CIKM, etc.), and won prizes in data competitions. 
 
 My main research interests include event extraction, information extraction and knowledge graph.
 
@@ -24,12 +24,12 @@ My main research interests include event extraction, information extraction and 
 
 - **<a href="https://dl.acm.org/doi/abs/10.1145/3495162" target="_blank">A survey on text classification: From shallow to deep learning, TIST 2022 </a>**.<br>
   **Qian Li**, Hao Peng, Jianxin Li, Congying Xia, Renyu Yang, Lichao Sun, Philip S Yu, Lifang He.(<a href="https://github.com/xiaoqian19940510/text-classification-surveys" target="_blank">Github</a>)
-  *ACM Transactions on Intelligent Systems and Technology (TIST), SCI Q1, JCR三区*.
+  *ACM Transactions on Intelligent Systems and Technology (TIST), IF=10.489, SCI Q1, JCR三区*.
 
 
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">A Survey on Deep Learning Event Extraction: Approaches and Applications,  TNNLS 2022 </a>**.<br>
-  **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), SCI Q1, JCR一区, CCF-B*
+  **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IF=14.255, SCI Q1, JCR一区, CCF-B*
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems,  TWEB 2022 </a>**.<br>
   **Qian Li**, Jianxin Li, Lihong Wang, Cheng Ji, Yiming Hei,Jiawei Sheng, Qingyun Sun, Shan Xue, Pengtao Xie. *Transactions on the Web (TWEB), SCI Q1, JCR三区, CCF-B*
