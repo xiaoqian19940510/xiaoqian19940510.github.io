@@ -39,15 +39,18 @@ My main research interests include event extraction, information extraction and 
   *In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A)*.
 
 
+- **<a href="https://direct.mit.edu/dint/article/3/3/444/100995/A-Joint-Learning-Framework-for-the-CCKS-2020" target="_blank">A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task,  Data Intell. 2021 </a>**.<br>
+  Jiawei Sheng, **Qian Li**, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He, Tingwen Liu, Hongbo Xu. *Data Intelligence (DI 2021, EI)*.
+  
+
+
 - **<a href="https://aclanthology.org/2021.findings-acl.14/"> Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-Squashing, CIKM 2022 </a>**.<br>
   Qingyun Sun, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, **Qian Li** and Philip S. Yu.
   *31st ACM International Conference on Information and Knowledge Management (CIKM), CCF-B*.
 
 
   
-- **<a href="https://direct.mit.edu/dint/article/3/3/444/100995/A-Joint-Learning-Framework-for-the-CCKS-2020" target="_blank">A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task,  Data Intell. 2021 </a>**.<br>
-  Jiawei Sheng, **Qian Li**, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He, Tingwen Liu, Hongbo Xu. *Data Intelligence (DI 2021, EI)*.
-  
+
 
 
 - **<a href="https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3" target="_blank">A Dual-Classifier Model for General Fine-Grained Event Detection Task,  CCKS, 2022 </a>**.<br>
