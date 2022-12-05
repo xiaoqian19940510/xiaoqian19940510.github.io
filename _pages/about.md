@@ -29,7 +29,7 @@ My main research interests include event extraction, information extraction and 
 
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">A Survey on Deep Learning Event Extraction: Approaches and Applications,  TNNLS 2022 </a>**.<br>
-  **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Q1, JCR一区, CCF-B*
+  **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), SCI Q1, JCR一区, CCF-B*
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems,  TWEB 2022 </a>**.<br>
   **Qian Li**, Jianxin Li, Lihong Wang, Cheng Ji, Yiming Hei,Jiawei Sheng, Qingyun Sun, Shan Xue, Pengtao Xie. *Transactions on the Web (TWEB), SCI Q1, JCR三区, CCF-B*
