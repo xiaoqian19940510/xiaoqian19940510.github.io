@@ -54,7 +54,7 @@ My main research interests include event extraction, information extraction and 
 
 
 - **<a href="https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3" target="_blank">A Dual-Classifier Model for General Fine-Grained Event Detection Task,  CCKS, 2022 </a>**.<br>
-  Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *CCKS 2022*.
+  Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *China Conference on Knowledge Graph and Semantic Computing (CCKS) 2022*.
 
 
 ## Competitions
