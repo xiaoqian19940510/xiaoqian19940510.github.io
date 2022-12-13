@@ -68,11 +68,11 @@ My main research interests include event extraction, information extraction and 
 
 ### Conference
 
-- The reviewer of EMNLP (CCF-B, the top conference of NLP).
+- The Program Committee Member of EMNLP (CCF-B, the top conference of NLP).
 
-- The reviewer of CIKM (CCF-B, the top conference of data mining).
+- The Program Committee Member of CIKM (CCF-B, the top conference of data mining).
 
-- The reviewer of CCL (CCF-C, the most authoritative and influential academic conference of NLP in China ).
+- The Program Committee Member of CCL (CCF-C, the most authoritative and influential academic conference of NLP in China ).
 
 
 ### Journal
