@@ -13,9 +13,11 @@ I am Qian Li (李倩), currently pursuing a Ph.D. degree (after one year) in the
 My main research interests include event extraction, information extraction, knowledge graph, multi-modal machine learning. Up to now, I have published several papers (WWW, ACL, CIKM, TASLP, TNNLS, TIST, TWEB, etc.), and won prizes in data competitions. If interested to discuss or work together, please feel free to reach me.
 
 
+<br>
+
 # Publications
 
-### < 2023 >
+## 2023
 
 - **<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment, WWW 2023 </a>**.<br>
   **Qian Li**, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li.(<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Github</a>)
@@ -30,7 +32,7 @@ My main research interests include event extraction, information extraction, kno
   
 
 
-### < 2022 >
+## 2022
 
 **[TNNLS 2022] A Survey on Deep Learning Event Extraction: Approaches and Applications.**<br>
 <u>Qian Li</u>, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu.<br>
@@ -75,7 +77,7 @@ Yiming Hei, <u>Qian Li</u>, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu
 - **<a href="https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3" target="_blank">A Dual-Classifier Model for General Fine-Grained Event Detection Task,  CCKS, 2022 </a>**.<br>
   Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *China Conference on Knowledge Graph and Semantic Computing (CCKS) 2022*. -->
 
-##       --------------------------------------< 2021 >--------------------------------------
+## 2021
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9664363" target="_blank">Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations, TASLP 2021 </a>**.<br>
   **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S Yu, Zheng Wang.(<a href="https://github.com/xiaoqian19940510/TASLP-EAREE" target="_blank">Github</a>)
@@ -95,46 +97,50 @@ Yiming Hei, <u>Qian Li</u>, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu
 
 
 
+<br>
+
 # Competitions
 
-- [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 
+[[CCKS 2021]](http://sigkg.cn/ccks2021/) Fine-grained Event Detection Competition, 1/253. 
 
-- [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 
-
-
-# Academic and social services
-
-##   --------------------------------------< Conference >--------------------------------------
-
-- The Program Committee Member of ACL (CCF-A, the top conference of NLP).
-
-- The Program Committee Member of EMNLP (CCF-B, the top conference of NLP).
-
-- The Program Committee Member of CIKM (CCF-B, the top conference of data mining).
-
-- The Program Committee Member of CCL (CCF-C, the most authoritative and influential academic conference of NLP in China ).
+[[CCKS 2020]](http://sigkg.cn/ccks2020/?page_id=69#task4) Few-shot Cross-domain Event Extraction Competition, 1/391.
 
 
-##   --------------------------------------< Journal >--------------------------------------
-- The reviewer of Neural Networks (NN, CCF-B, SCI Q1).
+<br>
 
-- The reviewer of Transactions on the Web (TWEB, CCF-B, SCI Q1).
+# Academic and Social services
 
-- The reviewer of Complex & Intelligent Systems (CAIS, SCI Q1).
+## Conference Program Committee Member/Reviewer
 
-- The reviewer of International Journal of Machine Learning and Cybernetics (JMLC, SCI Q1).
+- ACL 2023 (CCF-A, top conference of NLP).
 
-- Others (JJCIT, etc.)
+- EMNLP 2023 (CCF-B, top conference of NLP).
+
+- CIKM 2023 (CCF-B, top conference of data mining).
+
+- CCL 2022 (CCF-C, most authoritative and influential academic conference of NLP in China ).
 
 
+## Journal Reviewer
+- Neural Networks (NN, CCF-B, SCI Q1).
+
+- Transactions on the Web (TWEB, CCF-B, SCI Q1).
+
+- Complex & Intelligent Systems (CAIS, SCI Q1).
+
+- International Journal of Machine Learning and Cybernetics (JMLC, SCI Q1).
+
+## Others 
+
+- JJCIT, etc.
 
 
-
+<br>
 
 # Internship
 
-- Samsung Research Institute in Beijing, Bixiby research and development, 2018.01-2018.09.
+Samsung Research Institute in Beijing, Bixiby research and development, 2018.01-2018.09.
 
-- National Computer Network Emergency Response Technical Team/Coordination Center of China, NLP algorithm engineer, 2020.01-2021.01.
+National Computer Network Emergency Response Technical Team/Coordination Center of China, NLP algorithm engineer, 2020.01-2021.01.
 
 
