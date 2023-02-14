@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently pursuing a PhD degree (after two years) in the [Beihang University](https://buaa.edu.cn/). I received my Bachelor’s degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016, and my Master's degree from [Beijing University of Posts and Telccommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.  Up to now, I have published several papers in the top conferences and Journal (e.g., WWW, ACL, CIKM, TASLP, TNNLS, TIST, TWEB, etc.), and won prizes in data competitions. 
 
-My main research interests include event extraction, information extraction and knowledge graph.
+My main research interests include event extraction, information extraction, knowledge graph, multi-modal machine learning.
 
 
 # Publications
