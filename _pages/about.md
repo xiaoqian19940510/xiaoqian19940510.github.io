@@ -15,7 +15,7 @@ My main research interests include event extraction, information extraction and 
 
 # Publications
 
-## -------------- 2023 --------------
+## --------------< 2023 >--------------
 
 - **<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment, WWW 2023 </a>**.<br>
   **Qian Li**, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li.(<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Github</a>)
@@ -30,7 +30,7 @@ My main research interests include event extraction, information extraction and 
   
 
 
-## -------------- 2022 --------------
+## --------------< 2023 >--------------
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">A Survey on Deep Learning Event Extraction: Approaches and Applications,  TNNLS 2022 </a>**.<br>
   **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), **IF=14.255**, SCI Q1, **JCR一区**, CCF-B*
@@ -51,7 +51,7 @@ My main research interests include event extraction, information extraction and 
 - **<a href="https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3" target="_blank">A Dual-Classifier Model for General Fine-Grained Event Detection Task,  CCKS, 2022 </a>**.<br>
   Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *China Conference on Knowledge Graph and Semantic Computing (CCKS) 2022*.
 
-## -------------- 2021 --------------
+## --------------< 2023 >--------------
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9664363" target="_blank">Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations, TASLP 2021 </a>**.<br>
   **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S Yu, Zheng Wang.(<a href="https://github.com/xiaoqian19940510/TASLP-EAREE" target="_blank">Github</a>)
