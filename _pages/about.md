@@ -15,7 +15,7 @@ My main research interests include event extraction, information extraction and 
 
 # Publications
 
-## 2023
+## *******2023*******
 
 - **<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment, WWW 2023 </a>**.<br>
   **Qian Li**, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li.(<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Github</a>)
