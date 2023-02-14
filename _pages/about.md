@@ -26,7 +26,7 @@ My main research interests include event extraction, information extraction and 
   Lingfeng Zhong, Jia Wu, **Qian Li**, Hao Peng, Xindong Wu. *arXiv*.
   
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">Label graph augmented soft cascade decoding model for overlapping event extraction,  JMLC 2023 </a>**.<br>
-  Yiming Hei, Lihong Wang, Jiawei Sheng, Jianwei Liu, **Qian Li**, Shu Guo. *International Journal of Machine Learning and Cybernetics (JMLC), SCI Q1*
+  Yiming Hei, Lihong Wang, Jiawei Sheng, Jianwei Liu, **Qian Li**, Shu Guo. *International Journal of Machine Learning and Cybernetics (JMLC), SCI Q1*.
   
 
 
