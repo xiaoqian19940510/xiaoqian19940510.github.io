@@ -25,7 +25,7 @@ My main research interests include event extraction, information extraction and 
 - **<a href="https://arxiv.org/abs/2302.05019" target="_blank">A Comprehensive Survey on Automatic Knowledge Graph Construction,  arXiv. 2023 </a>**.<br>
   Lingfeng Zhong, Jia Wu, **Qian Li**, Hao Peng, Xindong Wu. *arXiv*.
   
-  - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">Label graph augmented soft cascade decoding model for overlapping event extraction,  JMLC 2023 </a>**.<br>
+- **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">Label graph augmented soft cascade decoding model for overlapping event extraction,  JMLC 2023 </a>**.<br>
   Yiming Hei, Lihong Wang, Jiawei Sheng, Jianwei Liu, **Qian Li**, Shu Guo. *International Journal of Machine Learning and Cybernetics (JMLC), SCI Q1*
   
 
@@ -43,6 +43,13 @@ My main research interests include event extraction, information extraction and 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems,  TWEB 2022 </a>**.<br>
   **Qian Li**, Jianxin Li, Lihong Wang, Cheng Ji, Yiming Hei,Jiawei Sheng, Qingyun Sun, Shan Xue, Pengtao Xie. *Transactions on the Web (TWEB), SCI Q1, JCR三区, CCF-B*
 
+- **<a href="https://aclanthology.org/2021.findings-acl.14/"> Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-Squashing, CIKM 2022 </a>**.<br>
+  Qingyun Sun, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, **Qian Li** and Philip S. Yu.
+  *31st ACM International Conference on Information and Knowledge Management (CIKM), CCF-B*.
+
+
+- **<a href="https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3" target="_blank">A Dual-Classifier Model for General Fine-Grained Event Detection Task,  CCKS, 2022 </a>**.<br>
+  Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *China Conference on Knowledge Graph and Semantic Computing (CCKS) 2022*.
 
 ## 2021
 
@@ -62,14 +69,6 @@ My main research interests include event extraction, information extraction and 
   Jiawei Sheng, **Qian Li**, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He, Tingwen Liu, Hongbo Xu. *Data Intelligence (DI 2021, EI)*.
   
 
-
-- **<a href="https://aclanthology.org/2021.findings-acl.14/"> Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-Squashing, CIKM 2022 </a>**.<br>
-  Qingyun Sun, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, **Qian Li** and Philip S. Yu.
-  *31st ACM International Conference on Information and Knowledge Management (CIKM), CCF-B*.
-
-
-- **<a href="https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3" target="_blank">A Dual-Classifier Model for General Fine-Grained Event Detection Task,  CCKS, 2022 </a>**.<br>
-  Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *China Conference on Knowledge Graph and Semantic Computing (CCKS) 2022*.
 
 
 ## Competitions
