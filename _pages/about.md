@@ -15,7 +15,9 @@ My main research interests include event extraction, information extraction and 
 
 # Publications
 
-
+- **<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment, WWW 2023 </a>**.<br>
+  **Qian Li**, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li.(<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Github</a>)
+  *Proceedings of the ACM Web Conference 2023(WWW 2023), CCF-A*.
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9664363" target="_blank">Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations, TASLP 2021 </a>**.<br>
   **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S Yu, Zheng Wang.(<a href="https://github.com/xiaoqian19940510/TASLP-EAREE" target="_blank">Github</a>)
@@ -37,6 +39,11 @@ My main research interests include event extraction, information extraction and 
 - **<a href="https://aclanthology.org/2021.findings-acl.14/">CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction, ACL/IJCNLP (Findings) 2021 </a>**.<br>
   Jiawei Sheng, Shu Guo, Bowen Yu, **Qian Li**, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
   *In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A)*.
+
+
+- **<a href="https://arxiv.org/abs/2302.05019" target="_blank">A Comprehensive Survey on Automatic Knowledge Graph Construction,  arXiv. 2023 </a>**.<br>
+  Lingfeng Zhong, Jia Wu, **Qian Li**, Hao Peng, Xindong Wu. *arXiv*.
+
 
 
 - **<a href="https://direct.mit.edu/dint/article/3/3/444/100995/A-Joint-Learning-Framework-for-the-CCKS-2020" target="_blank">A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task,  Data Intell. 2021 </a>**.<br>
