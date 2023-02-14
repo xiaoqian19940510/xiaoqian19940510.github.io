@@ -114,9 +114,9 @@ Yiming Hei, <u>Qian Li</u>, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu
 
 - ACL 2023 (CCF-A, top conference of NLP).
 
-- EMNLP 2023 (CCF-B, top conference of NLP).
+- EMNLP 2022 (CCF-B, top conference of NLP).
 
-- CIKM 2023 (CCF-B, top conference of data mining).
+- CIKM 2022 (CCF-B, top conference of data mining).
 
 - CCL 2022 (CCF-C, most authoritative and influential academic conference of NLP in China ).
 
@@ -129,8 +129,6 @@ Yiming Hei, <u>Qian Li</u>, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu
 - Complex & Intelligent Systems (CAIS, SCI Q1).
 
 - International Journal of Machine Learning and Cybernetics (JMLC, SCI Q1).
-
-## Others 
 
 - JJCIT, etc.
 
