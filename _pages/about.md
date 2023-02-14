@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a PhD degree (after two years) in the [Beihang University](https://buaa.edu.cn/). I received my Bachelor’s degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016, and my Master's degree from [Beijing University of Posts and Telccommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.  Up to now, I have published several papers in the top conferences and Journal (e.g., WWW, ACL, CIKM, TASLP, TNNLS, TIST, TWEB, etc.), and won prizes in data competitions. 
+I am Qian Li (李倩), currently pursuing a Ph.D. degree (after two years) in the [Beihang University (BUAA)](https://buaa.edu.cn/). I received my B.S. degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016, and my M.S. degree from [Beijing University of Posts and Telccommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.  
 
-My main research interests include event extraction, information extraction, knowledge graph, multi-modal machine learning.
+My main research interests include event extraction, information extraction, knowledge graph, multi-modal machine learning. Up to now, I have published several papers (WWW, ACL, CIKM, TASLP, TNNLS, TIST, TWEB, etc.), and won prizes in data competitions. If interested to discuss or work together, please feel free to reach me.
 
 
 # Publications
 
-##       --------------------------------------< 2023 >--------------------------------------
+###       < 2023 >
 
 - **<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment, WWW 2023 </a>**.<br>
   **Qian Li**, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li.(<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Github</a>)
@@ -30,7 +30,16 @@ My main research interests include event extraction, information extraction, kno
   
 
 
-##       --------------------------------------< 2022 >--------------------------------------
+### < 2022 >
+
+**A Survey on Deep Learning Event Extraction: Approaches and Applications.** *TNNLS 2022*<br>
+<u>Qian Li</u>, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, **IF=14.255**, SCI Q1, **JCR一区**, CCF-B<br>
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9927311/)
+
+**A survey on text classification: From shallow to deep learning.** *TIST 2022*<br>
+<u>Qian Li</u>, Hao Peng, Jianxin Li, Congying Xia, Renyu Yang, Lichao Sun, Philip S Yu, Lifang He. *ACM Transactions on Intelligent Systems and Technology (TIST)*, **IF=10.489**, SCI Q1, JCR三区, CCF-B<br>
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9927311/)
+[[Repository]](https://github.com/xiaoqian19940510/text-classification-surveys)
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">A Survey on Deep Learning Event Extraction: Approaches and Applications,  TNNLS 2022 </a>**.<br>
   **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), **IF=14.255**, SCI Q1, **JCR一区**, CCF-B*
