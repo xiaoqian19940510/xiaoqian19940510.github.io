@@ -17,7 +17,7 @@ My main research interests include event extraction, information extraction and 
 
 - **<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment, WWW 2023 </a>**.<br>
   **Qian Li**, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li.(<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Github</a>)
-  *Proceedings of the ACM Web Conference 2023(WWW 2023), **CCF-A***.
+  *Proceedings of the ACM Web Conference 2023 (WWW 2023), **CCF-A***.
 
 - **<a href="https://ieeexplore.ieee.org/abstract/document/9664363" target="_blank">Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations, TASLP 2021 </a>**.<br>
   **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S Yu, Zheng Wang.(<a href="https://github.com/xiaoqian19940510/TASLP-EAREE" target="_blank">Github</a>)
