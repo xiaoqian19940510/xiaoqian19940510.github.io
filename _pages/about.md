@@ -101,7 +101,7 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 <br>
 
-# Academic and Social services
+# Academic and Social Services
 
 ## Conference Program Committee Member/Reviewer
 
