@@ -19,81 +19,74 @@ My main research interests include event extraction, information extraction, kno
 
 ## 2023
 
-- **<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment, WWW 2023 </a>**.<br>
-  **Qian Li**, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li.(<a href="https://github.com/xiaoqian19940510/ACK-MMEA" target="_blank">Github</a>)
-  *Proceedings of the ACM Web Conference 2023 (WWW 2023), **CCF-A***.
+**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment.** *WWW 2023.*<br>
+<u>Qian Li</u>, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li.<br>
+*Proceedings of the ACM Web Conference 2023 (**WWW 2023**)*, **CCF-A**.<br>
+[PDF]
+[[Code]](https://github.com/xiaoqian19940510/ACK-MMEA)
 
+**A Comprehensive Survey on Automatic Knowledge Graph Construction.** *arXiv 2023.*<br>
+Lingfeng Zhong, Jia Wu, <u>Qian Li</u>, Hao Peng, Xindong Wu.<br>
+*arXiv 2023*.<br>
+[[PDF]](https://arxiv.org/abs/2302.05019)
 
-- **<a href="https://arxiv.org/abs/2302.05019" target="_blank">A Comprehensive Survey on Automatic Knowledge Graph Construction,  arXiv. 2023 </a>**.<br>
-  Lingfeng Zhong, Jia Wu, **Qian Li**, Hao Peng, Xindong Wu. *arXiv*.
-  
-- **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">Label graph augmented soft cascade decoding model for overlapping event extraction,  JMLC 2023 </a>**.<br>
-  Yiming Hei, Lihong Wang, Jiawei Sheng, Jianwei Liu, **Qian Li**, Shu Guo. *International Journal of Machine Learning and Cybernetics (JMLC), SCI Q1*.
-  
+**Label graph augmented soft cascade decoding model for overlapping event extraction.** *JMLC 2023.*<br>
+Yiming Hei, Lihong Wang, Jiawei Sheng, Jianwei Liu, <u>Qian Li</u>, Shu Guo.<br>
+*International Journal of Machine Learning and Cybernetics (JMLC)*, SCI Q1.<br>
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9927311/)
 
 
 ## 2022
 
-**[TNNLS 2022] A Survey on Deep Learning Event Extraction: Approaches and Applications.**<br>
+**A Survey on Deep Learning Event Extraction: Approaches and Applications.** *TNNLS 2022.*<br>
 <u>Qian Li</u>, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu.<br>
-*IEEE Transactions on Neural Networks and Learning Systems (TNNLS), **IF:14.255**, SCI Q1, **JCR 1区**, CCF-B.*<br>
+*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, **IF:14.255**, SCI Q1, **JCR 1区**, CCF-B.<br>
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9927311/)
 
-**[TIST 2022] A survey on text classification: From shallow to deep learning.**<br>
+**A survey on text classification: From shallow to deep learning.** *TIST 2022.*<br>
 <u>Qian Li</u>, Hao Peng, Jianxin Li, Congying Xia, Renyu Yang, Lichao Sun, Philip S Yu, Lifang He. <br>
-*ACM Transactions on Intelligent Systems and Technology (TIST)*, **IF=10.489**, SCI Q1, JCR三区, CCF-B<br>
+*ACM Transactions on Intelligent Systems and Technology (TIST)*, **IF:10.489**, SCI Q1, JCR 3区, CCF-B<br>
 [[PDF]](https://dl.acm.org/doi/abs/10.1145/3495162)
 [[Repository]](https://github.com/xiaoqian19940510/text-classification-surveys)
 
-**[TWEB 2022] Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems.**<br>
+**Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems.** *TWEB 2022.*<br>
 <u>Qian Li</u>, Jianxin Li, Lihong Wang, Cheng Ji, Yiming Hei,Jiawei Sheng, Qingyun Sun, Shan Xue, Pengtao Xie.<br>
-*Transactions on the Web (TWEB)*, SCI Q1, JCR三区, CCF-B<br>
+*Transactions on the Web (TWEB)*, SCI Q1, JCR 3区, CCF-B<br>
+[PDF]
+[Code]
 
-**[CIKM 2022] Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-Squashing.**<br>
+**Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-Squashing.** *CIKM 2022.*<br>
 Qingyun Sun, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, <u>Qian Li</u> and Philip S. Yu.<br>
 *31st ACM International Conference on Information and Knowledge Management (CIKM 2022)*, CCF-B<br>
+[PDF]
+[Code]
 
-**[CCKS 2022] A Dual-Classifier Model for General Fine-Grained Event Detection Task, CCKS 2022.**<br>
+**A Dual-Classifier Model for General Fine-Grained Event Detection Task.** *CCKS 2022.*<br>
 Yiming Hei, <u>Qian Li</u>, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang.<br>
 *China Conference on Knowledge Graph and Semantic Computing (CCKS 2022)*<br>
 [[PDF]](https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3)
+[Code]
 
-<!-- - **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">A Survey on Deep Learning Event Extraction: Approaches and Applications,  TNNLS 2022 </a>**.<br>
-  **Qian Li**, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), **IF=14.255**, SCI Q1, **JCR一区**, CCF-B*
-
-- **<a href="https://dl.acm.org/doi/abs/10.1145/3495162" target="_blank">A survey on text classification: From shallow to deep learning, TIST 2022 </a>**.<br>
-  **Qian Li**, Hao Peng, Jianxin Li, Congying Xia, Renyu Yang, Lichao Sun, Philip S Yu, Lifang He.(<a href="https://github.com/xiaoqian19940510/text-classification-surveys" target="_blank">Github</a>)
-  *ACM Transactions on Intelligent Systems and Technology (TIST), **IF=10.489**, SCI Q1, JCR三区*.
-
-
-- **<a href="https://ieeexplore.ieee.org/abstract/document/9927311/" target="_blank">Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems,  TWEB 2022 </a>**.<br>
-  **Qian Li**, Jianxin Li, Lihong Wang, Cheng Ji, Yiming Hei,Jiawei Sheng, Qingyun Sun, Shan Xue, Pengtao Xie. *Transactions on the Web (TWEB), SCI Q1, JCR三区, CCF-B*
-
-- **<a href="https://aclanthology.org/2021.findings-acl.14/"> Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-Squashing, CIKM 2022 </a>**.<br>
-  Qingyun Sun, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, **Qian Li** and Philip S. Yu.
-  *31st ACM International Conference on Information and Knowledge Management (CIKM), CCF-B*.
-
-
-- **<a href="https://link.springer.com/chapter/10.1007/978-981-19-0713-5_3" target="_blank">A Dual-Classifier Model for General Fine-Grained Event Detection Task,  CCKS, 2022 </a>**.<br>
-  Yiming Hei, **Qian Li**, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu Guo, Lihong Wang. *China Conference on Knowledge Graph and Semantic Computing (CCKS) 2022*. -->
 
 ## 2021
 
-- **<a href="https://ieeexplore.ieee.org/abstract/document/9664363" target="_blank">Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations, TASLP 2021 </a>**.<br>
-  **Qian Li**, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S Yu, Zheng Wang.(<a href="https://github.com/xiaoqian19940510/TASLP-EAREE" target="_blank">Github</a>)
-  *IEEE Transactions on Audio, Speech, and Language Processing(TASLP), SCI Q1, **JCR一区**, CCF-B*.
+**Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations.** *TASLP 2021.*<br>
+<u>Qian Li</u>, Hao Peng, Jianxin Li, Yuanxing Ning, Lihong Wang, Philip S Yu, Zheng Wang.<br>
+*IEEE Transactions on Audio, Speech, and Language Processing (TASLP)*, SCI Q1, **JCR 1区**, CCF-B<br>
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9664363)
+[[Code]](https://github.com/xiaoqian19940510/TASLP-EAREE)
 
+**CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.** *ACL/IJCNLP (Findings) 2021.*<br>
+Jiawei Sheng, Shu Guo, Bowen Yu, <u>Qian Li</u>, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.<br>
+*In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**)*, **CCF-A**<br>
+[[PDF]](https://aclanthology.org/2021.findings-acl.14/)
+[Code]
 
-- **<a href="https://aclanthology.org/2021.findings-acl.14/">CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction, ACL/IJCNLP (Findings) 2021 </a>**.<br>
-  Jiawei Sheng, Shu Guo, Bowen Yu, **Qian Li**, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  *In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A)*.
-
-
-
-
-- **<a href="https://direct.mit.edu/dint/article/3/3/444/100995/A-Joint-Learning-Framework-for-the-CCKS-2020" target="_blank">A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task,  Data Intell. 2021 </a>**.<br>
-  Jiawei Sheng, **Qian Li**, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He, Tingwen Liu, Hongbo Xu. *Data Intelligence (DI 2021, EI)*.
-  
+**A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task.** *Data Intelligence 2021.*<br>
+iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He, Tingwen Liu, Hongbo Xu.<br>
+*Data Intelligence (DI 2021)*, EI<br>
+[[PDF]](https://direct.mit.edu/dint/article/3/3/444/100995/A-Joint-Learning-Framework-for-the-CCKS-2020)
+[Code]
 
 
 
