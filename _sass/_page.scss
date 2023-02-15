@@ -33,6 +33,9 @@
     }
   }
 }
+::selection { background:#3390FF}
+::-moz-selection { background:#3390FF}
+::-webkit-selection { background:#3390FF}
 
 .page__title {
   margin-top: 0;
@@ -176,7 +179,7 @@
   color: #fff;
   font-family: $caption-font-family;
   font-size: $type-size-7;
-  background: #3390FF;
+  background: #000000;
   text-align: right;
   z-index: 5;
   opacity: 0.5;
