@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qian Li"
 title_separator          : "-"
 name                     : &name "Qian Li"
-description              : &description "PhD student in Natural Language Processing. Beihang University (BUAA)."
+description              : &description "PhD student in NLP. Beihang University (BUAA)."
 url                      : https://xiaoqian19940510.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoqian19940510/xiaoqian19940510.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Qian Li / 李倩"
   avatar           : "thumb.jpg" 
-  bio              : "PhD student in Natural Language Processing.  Beihang University (BUAA)."
+  bio              : "PhD student in NLP \n Beihang University (BUAA) \n liqian@act.buaa.edu.cn"
   location         : "Beijing, China"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=AHg-JGIAAAAJ&hl=zh-CN"
