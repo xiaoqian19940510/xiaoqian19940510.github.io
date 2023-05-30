@@ -25,6 +25,13 @@ My main research interests include event extraction, information extraction, kno
 [PDF]
 [[Code]](https://github.com/xiaoqian19940510/ACK-MMEA)
 
+
+**Dual-Gated Fusion with Prefix-Tuning for Multi-Modal Relation Extraction.** *ACL findings 2023.*<br>
+<u>Qian Li</u>, Shu Guo, Cheng Ji, Xutan Peng, Shiyao Cui, Jianxin Li, Lihong Wang.<br>
+*The 61st Annual Meeting of the Association for Computational Linguistics (**ACL findings 2023**)*, **CCF-A**.<br>
+[PDF]
+[[Code]](https://github.com/xiaoqian19940510/DGF-PT)
+
 **A Comprehensive Survey on Automatic Knowledge Graph Construction.** *arXiv 2023.*<br>
 Lingfeng Zhong, Jia Wu, <u>Qian Li</u>, Hao Peng, Xindong Wu.<br>
 *arXiv 2023*.<br>
