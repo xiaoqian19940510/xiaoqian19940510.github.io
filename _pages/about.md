@@ -10,7 +10,8 @@ redirect_from:
 
 I am Qian Li (李倩), currently pursuing a Ph.D. degree (after one year) in the [Beihang University (BUAA)](https://buaa.edu.cn/). I received my B.S. degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016, and my M.S. degree from [Beijing University of Posts and Telccommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.  
 
-My main research interests include event extraction, information extraction, knowledge graph, multi-modal machine learning. Up to now, I have published several papers (WWW, ACL, CIKM, TASLP, TNNLS, TIST, TWEB, etc.), and won prizes in data competitions. If interested to discuss or work together, please feel free to reach me.
+
+During my doctoral studies, my research focused on information extraction and knowledge graph in natural language processing. I have published a total of 11 papers in conferences or journals such as WWW, ACL, CIKM, TASLP, and TNNLS, with 6 of them as the first author. Additionally, I have been granted 8 Chinese patents, with 3 of them as the first inventor by students. I was awarded the first prize of Big Data Center Science and Technology Progress by State Grid Co., LTD. Furthermore, I achieved first place in the international Data competition CodaLab Platform Event Detection Challenge. In addition, I have participated in information extraction related evaluation tasks sponsored by CCKS for two consecutive years and achieved first place and the technology innovation award. If you are interested in discussing or collaborating with me, please feel free to contact me.
 
 
 <br>
@@ -114,11 +115,15 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 - ACL 2023 (CCF-A, top conference of NLP).
 
+- SIGIR 2023 (CCF-A, top conference of NLP).
+
+- ECAI 2023 (CCF-B, top conference of artificial intelligence).
+
 - EMNLP 2022 (CCF-B, top conference of NLP).
 
 - CIKM 2022 (CCF-B, top conference of data mining).
 
-- CCL 2022 (CCF-C, most authoritative and influential academic conference of NLP in China ).
+- CCL 2022、2023 (CCF-C, most authoritative and influential academic conference of NLP in China ).
 
 
 ## Journal Reviewer
