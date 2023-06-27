@@ -36,7 +36,7 @@ During my doctoral studies, my research focused on information extraction and kn
 
 **Event Extraction by Associating Event Types and Argument Roles.** *IEEE Transactions on Big Data (TBD) 2023.*<br>
 <u>Qian Li</u>, Shu Guo, Jia Wu, Jianxin Li, Jiawei Sheng, Hao Peng, Lihong Wang.<br>
-*IEEE Transactions on Big Data (TBD 2023)*, *SCI Q1, CCF-C*.<br>
+*IEEE Transactions on Big Data (TBD 2023)*, *SCI Q1, JCR 2区, CCF-C*.<br>
 [PDF]
 [[Code]](https://github.com/xiaoqian19940510)
 
