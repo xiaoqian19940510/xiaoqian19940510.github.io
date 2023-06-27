@@ -33,6 +33,15 @@ During my doctoral studies, my research focused on information extraction and kn
 [PDF]
 [[Code]](https://github.com/xiaoqian19940510/DGF-PT)
 
+
+**Event Extraction by Associating Event Types and Argument Roles.** *IEEE Transactions on Big Data (TBD) 2023.*<br>
+<u>Qian Li</u>, Shu Guo, Jia Wu, Jianxin Li, Jiawei Sheng, Hao Peng, Lihong Wang.<br>
+*IEEE Transactions on Big Data (TBD 2023)*, *SCI Q1, CCF-C*.<br>
+[PDF]
+[[Code]](https://github.com/xiaoqian19940510)
+
+
+
 **A Comprehensive Survey on Automatic Knowledge Graph Construction.** *arXiv 2023.*<br>
 Lingfeng Zhong, Jia Wu, <u>Qian Li</u>, Hao Peng, Xindong Wu.<br>
 *arXiv 2023*.<br>
