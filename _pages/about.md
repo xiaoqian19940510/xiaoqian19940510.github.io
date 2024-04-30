@@ -11,7 +11,7 @@ redirect_from:
 I am Qian Li (李倩), currently pursuing a Ph.D. degree (after one year) in the [Beihang University (BUAA)](https://buaa.edu.cn/). I received my B.S. degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016, and my M.S. degree from [Beijing University of Posts and Telccommunications (BUPT)](https://www.bupt.edu.cn/) in 2019.  
 
 
-During my doctoral studies, my research focused on information extraction and knowledge graph in natural language processing. I have published a total of 12 papers in conferences or journals such as WWW, ACL, CIKM, TASLP, and TNNLS, with 7 of them as the first author. Additionally, I have been granted 8 Chinese patents, with 3 of them as the first inventor by students. I was awarded the first prize of Big Data Center Science and Technology Progress by State Grid Co., LTD. Furthermore, I achieved first place in the international Data competition CodaLab Platform Event Detection Challenge. In addition, I have participated in information extraction related evaluation tasks sponsored by CCKS for two consecutive years and achieved first place and the technology innovation award. If you are interested in discussing or collaborating with me, please feel free to contact me.
+During my doctoral studies, my research focused on information extraction and knowledge graph in natural language processing. I have published a total of 18 papers in conferences or journals such as WWW, ACL, IJCAI, AAAI, COLING, CIKM, TASLP, and TNNLS, with 10 of them as the first author. Additionally, I have been granted 8 Chinese patents, with 3 of them as the first inventor by students. I was awarded the first prize of Big Data Center Science and Technology Progress by State Grid Co., LTD. Furthermore, I achieved first place in the international Data competition CodaLab Platform Event Detection Challenge. In addition, I have participated in information extraction related evaluation tasks sponsored by CCKS for two consecutive years and achieved first place and the technology innovation award. If you are interested in discussing or collaborating with me, please feel free to contact me.
 
 
 <br>
@@ -165,6 +165,8 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 - EMNLP 2022 (CCF-B, top conference of NLP).
 
+- COLING 2022 (CCF-B, top conference of NLP).
+
 - CIKM 2022 (CCF-B, top conference of data mining).
 
 - CCL 2022、2023 (CCF-C, most authoritative and influential academic conference of NLP in China ).
@@ -178,6 +180,8 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 - Neural Networks (NN, CCF-B, SCI Q1).
 
 - ACM Computing Surveys (CSUR, JCR 一区, SCI Q1).
+
+- Knowledge-Based Systems (KBS, JCR 一区, SCI Q1).
 
 - Transactions on the Web (TWEB, CCF-B, SCI Q1).
 
