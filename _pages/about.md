@@ -151,9 +151,9 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 ## Conference Program Committee Member/Reviewer
 
-- ACL 2024 (CCF-A, top conference of NLP).
+- ACL 2022-2024 (CCF-A, top conference of NLP).
 
-- SIGIR 2024 (CCF-A, top conference of NLP).
+- SIGIR 2023-2024 (CCF-A, top conference of NLP).
 
 - KDD 2024 (CCF-A, top conference of data mining).
 
@@ -163,15 +163,13 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 - AAAI 2024 (CCF-A, top conference of artificial intelligence).
 
-- EMNLP 2022 (CCF-B, top conference of NLP).
+- EMNLP 2022-2024 (CCF-B, top conference of NLP).
 
-- COLING 2022 (CCF-B, top conference of NLP).
+- COLING 2023-2024 (CCF-B, top conference of NLP).
 
-- CIKM 2022 (CCF-B, top conference of data mining).
+- CCL 2022-2024 (CCF-C, most authoritative and influential academic conference of NLP in China ).
 
-- CCL 2022、2023 (CCF-C, most authoritative and influential academic conference of NLP in China ).
-
-- ECAI, etc.
+- CIKM 2022, ECAI 2023, etc.
 
 
 ## Journal Reviewer
@@ -185,11 +183,7 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 - Transactions on the Web (TWEB, CCF-B, SCI Q1).
 
-- Complex & Intelligent Systems (CAIS, SCI Q1).
-
-- International Journal of Machine Learning and Cybernetics (JMLC, SCI Q1).
-
-- JJCIT, etc.
+- CAIS, JMLC, JJCIT, etc.
 
 
 <br>
