@@ -17,4 +17,17 @@ author_profile: true
 * The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
 
 * The **Science and Technology Progress Award** of Big Data Center of State Grid Corporation of China, 2021.
+  
 * The **second award** of "Chint Cup": The 7th China Graduate Contest on Smart-city Technology and Creative Design, 2022.
+  
+* The Best Paper Honorable Mention Award, CIKM 2022.
+  
+* The Travel Awards, WWW 2023.
+  
+* National Silver Award, China International College Student Innovation Competition (National Competition), 2023.
+  
+* Outstanding Academic Innovation Achievement Award, Beihang University, 2023.
+  
+* Innovation Scholarship of School of Computer Science, Beihang University, 2023.
+  
+* Outstanding Graduates of Beijing, 2024.
