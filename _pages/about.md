@@ -145,6 +145,38 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 [[CCKS 2020]](http://sigkg.cn/ccks2020/?page_id=69#task4) Few-shot Cross-domain Event Extraction Competition, 1/391.
 
 
+
+<br>
+
+# Awards & Honors
+
+* The Best Paper Honorable Mention Award, CIKM 2022.
+  
+* The Travel Awards, WWW 2023.
+
+* The **Top 1 Winner** of CodaLab Competition: MAVEN. 2021.
+
+* The **Top 1 Winner** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
+
+* The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
+
+* The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
+
+* The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
+
+* The **Science and Technology Progress Award** of Big Data Center of State Grid Corporation of China, 2021.
+  
+* The **second award** of "Chint Cup": The 7th China Graduate Contest on Smart-city Technology and Creative Design, 2022.
+  
+* National Silver Award, China International College Student Innovation Competition (National Competition), 2023.
+  
+* Outstanding Academic Innovation Achievement Award, Beihang University, 2023.
+  
+* Innovation Scholarship of School of Computer Science, Beihang University, 2023.
+  
+* Outstanding Graduates of Beijing, 2024.
+
+
 <br>
 
 # Academic and Social Services
@@ -184,14 +216,4 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 - Transactions on the Web (TWEB, CCF-B, SCI Q1).
 
 - CAIS, JMLC, JJCIT, etc.
-
-
-<br>
-
-# Internship
-
-Samsung Research Institute in Beijing, Bixiby research and development, 2018.01-2018.09.
-
-National Computer Network Emergency Response Technical Team/Coordination Center of China, NLP algorithm engineer, 2020.01-2021.01.
-
 
