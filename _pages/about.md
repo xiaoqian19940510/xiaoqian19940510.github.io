@@ -18,6 +18,23 @@ During my doctoral studies, my research focused on information extraction and kn
 
 # Publications
 
+
+## 2024
+**LLM-based Multi-Level Knowledge Generation for Few-shot Knowledge Graph Completion.** *IJCAI 2024.*<br>
+<u>Qian Li</u>, Zhuo Chen, Cheng Ji, Shiqi Jiang, Jianxin Li.<br>
+*The 33rd International Joint Conference on Artificial Intelligence (**IJCAI 2024**)*, **CCF-A**.<br>
+
+
+**ReGCL: Rethinking Message Passing in Graph Contrastive Learning.** *AAAI 2024.*<br>
+Cheng Ji, Zixuan Huang, Qingyun Sun, Hao Peng, Xingcheng Fu, <u>Qian Li</u>, Jianxin Li.<br>
+*Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2024**)*, **CCF-A**.<br>
+[PDF]((https://dl.acm.org/doi/abs/10.1145/3616855.3635757](https://ojs.aaai.org/index.php/AAAI/article/view/28698)))
+
+**Few-Shot Multimodal Named Entity Recognition based on Mutlimodal Causal Intervention Graph.** *COLING 2024.*<br>
+Feihong Lu, Xiaocui Yang, <u>Qian Li</u>, Qingyun Sun, Ke Jiang, Cheng Ji, Jianxin Li.<br>
+*LREC-COLING 2024 (**COLING 2024**)*, **CCF-B**.<br>
+
+
 ## 2023
 
 **Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment.** *WWW 2023.*<br>
@@ -33,6 +50,18 @@ During my doctoral studies, my research focused on information extraction and kn
 [PDF]
 [[Code]](https://github.com/xiaoqian19940510/DGF-PT)
 
+**Text-Video Retrieval via Multi-Modal Hypergraph Networks.** *WSDM 2023.*<br>
+<u>Qian Li</u>, Lixin Su, Jiashu Zhao, Long Xia, Hengyi Cai, Suqi Cheng, Hengzhu Tang, Junfeng Wang, Dawei Yin.<br>
+*Proceedings of the 17th ACM International Conference on Web Search and Data Mining (**WSDM 2023**)*, **CCF-B**.<br>
+[PDF]((https://dl.acm.org/doi/abs/10.1145/3616855.3635757))
+
+
+**Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment.** *EMNLP 2023 Findings.*<br>
+<u>Qian Li</u>, Cheng Ji, Shu Guo, Zhaoji Liang, Lihong Wang, Jianxin Li.<br>
+*Findings of the Association for Computational Linguistics: EMNLP 2023 (**EMNLP 2023 Findings**)*, **CCF-B**.<br>
+[PDF](https://aclanthology.org/2023.findings-emnlp.70/)
+
+
 
 **Event Extraction by Associating Event Types and Argument Roles.** *IEEE Transactions on Big Data (TBD) 2023.*<br>
 <u>Qian Li</u>, Shu Guo, Jia Wu, Jianxin Li, Jiawei Sheng, Hao Peng, Lihong Wang.<br>
@@ -44,7 +73,7 @@ During my doctoral studies, my research focused on information extraction and kn
 
 **A Comprehensive Survey on Automatic Knowledge Graph Construction.** *arXiv 2023.*<br>
 Lingfeng Zhong, Jia Wu, <u>Qian Li</u>, Hao Peng, Xindong Wu.<br>
-*arXiv 2023*.<br>
+*ACM Computing Surveys (**CSUR 2023**)*, *JCR 1区*.<br>
 [[PDF]](https://arxiv.org/abs/2302.05019)
 
 **Label graph augmented soft cascade decoding model for overlapping event extraction.** *JMLC 2023.*<br>
@@ -122,11 +151,17 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 ## Conference Program Committee Member/Reviewer
 
-- ACL 2023 (CCF-A, top conference of NLP).
+- ACL 2024 (CCF-A, top conference of NLP).
 
-- SIGIR 2023 (CCF-A, top conference of NLP).
+- SIGIR 2024 (CCF-A, top conference of NLP).
 
-- ECAI 2023 (CCF-B, top conference of artificial intelligence).
+- KDD 2024 (CCF-A, top conference of data mining).
+
+- ACMMM 2024 (CCF-A, top conference of multi-media).
+
+- IJCAI 2024 (CCF-A, top conference of artificial intelligence).
+
+- AAAI 2024 (CCF-A, top conference of artificial intelligence).
 
 - EMNLP 2022 (CCF-B, top conference of NLP).
 
@@ -134,9 +169,15 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 - CCL 2022、2023 (CCF-C, most authoritative and influential academic conference of NLP in China ).
 
+- ECAI, etc.
+
 
 ## Journal Reviewer
+- IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A, SCI Q1).
+  
 - Neural Networks (NN, CCF-B, SCI Q1).
+
+- ACM Computing Surveys (CSUR, JCR 一区, SCI Q1).
 
 - Transactions on the Web (TWEB, CCF-B, SCI Q1).
 
