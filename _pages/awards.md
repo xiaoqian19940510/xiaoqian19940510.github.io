@@ -6,6 +6,8 @@ author_profile: true
 
 * The **Best Paper** Honorable Mention Award, CIKM 2022.
   
+* The **ESI Highly Cited Papers**, ACM TIST, 2024.
+  
 * The **Travel Awards**, WWW 2023.
 
 * **Outstanding Graduates** of Beijing, 2024.
