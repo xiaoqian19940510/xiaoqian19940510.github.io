@@ -12,5 +12,5 @@ author_profile: true
 <!-- [Chinese CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian_chineseCV.pdf) -->
 
 <!-- # Contact -->
-Beihang University<br>
-Email: liqian@act.buaa.edu.cn
+Beijing University of Posts and Telecommunications<br>
+Email: li.qian@bupt.edu.cn
