@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qian Li"
 title_separator          : "-"
 name                     : &name "Qian Li"
-description              : &description "PhD student in NLP. Beihang University (BUAA)."
+description              : &description "postdoc. in Knowledge Graph. Beijing University of Posts and Telecommunications (BUPT)."
 url                      : https://xiaoqian19940510.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoqian19940510/xiaoqian19940510.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Qian Li / 李倩"
   avatar           : "thumb.jpg" 
-  bio              : "Ph.D. Candidate in NLP \ Beihang University (BUAA) \ liqian@act.buaa.edu.cn"
+  bio              : "postdoc. in Knowledge Graph \ Beihang University (BUAA) \ li.qian@bupt.edu.cn"
   location         : "Beijing, China"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=AHg-JGIAAAAJ&hl=zh-CN"
