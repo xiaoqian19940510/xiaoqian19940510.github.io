@@ -36,11 +36,11 @@ redirect_from:
   
 * The **second award** of "Chint Cup": The 7th China Graduate Contest on Smart-city Technology and Creative Design, 2022.
   
-* National Silver Award, China International College Student Innovation Competition (National Competition), 2023.
+* **National Silver Award**, China International College Student Innovation Competition (National Competition), 2023.
   
-* Outstanding Academic Innovation Achievement Award, Beihang University, 2023.
+* **Outstanding Academic** Innovation Achievement Award, Beihang University, 2023.
   
-* Innovation Scholarship of School of Computer Science, Beihang University, 2023.
+* **Innovation Scholarship** of School of Computer Science, Beihang University, 2023.
 
 
   
