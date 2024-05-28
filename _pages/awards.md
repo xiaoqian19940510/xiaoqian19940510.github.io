@@ -4,15 +4,6 @@ permalink: /awards/
 author_profile: true
 ---
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 
 * The **Best Paper** Honorable Mention Award, CIKM 2022.
   
