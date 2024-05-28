@@ -145,76 +145,24 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 # Competitions
 
-[[CCKS 2021]](http://sigkg.cn/ccks2021/) Fine-grained Event Detection Competition, 1/253. 
+[[CodaLab International Competition 2021]], MAVEN Channel, **Top 1**, 2021.
 
-[[CCKS 2020]](http://sigkg.cn/ccks2020/?page_id=69#task4) Few-shot Cross-domain Event Extraction Competition, 1/391.
+[[CCKS 2021]](http://sigkg.cn/ccks2021/) Fine-grained Event Detection Competition,**Top 1**, 2021. 
 
+[[CCKS 2020]](http://sigkg.cn/ccks2020/?page_id=69#task4) Few-shot Cross-domain Event Extraction Competition, **Top 1**, 2020.
 
+[[China International College Student Innovation Competition 2023]] National Silver Award, **Top 2**, 2023.
 
-<br>
-
-# Awards & Honors
-
-* The **Best Paper** Honorable Mention Award, CIKM 2022.
+[[Chint Cup 2022]] The 7th China Graduate Contest on Smart-city Technology and Creative Design, **Top 2**, 2022.
   
-* The **ESI Highly Cited Papers**, ACM TIST (Trans), 2024.
-  
-* The **Travel Awards**, WWW 2023.
-  
-* The **Top 1 Winner** of **CodaLab International Competition**: MAVEN Channel. 2021.
-  
-* The **Science and Technology Progress Award** of Big Data Center of State Grid Corporation of China, 2021.
-  
-* **Outstanding Graduates** of Beijing, 2024.
-
-* The **Top 1 Winner** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
-
-* The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
-
-* The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
-
-* The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
-  
-* The **second award** of "Chint Cup": The 7th China Graduate Contest on Smart-city Technology and Creative Design, 2022.
-  
-* National Silver Award, China International College Student Innovation Competition (National Competition), 2023.
-  
-* Outstanding Academic Innovation Achievement Award, Beihang University, 2023.
-  
-* Innovation Scholarship of School of Computer Science, Beihang University, 2023.
-
 
 <br>
 
 # Academic and Social Services
 
-## Conference Program Committee Member/Reviewer
+## Conference/Journal Reviewer
 
-- ACL 2022-2024 (CCF-A, top conference of NLP).
+- ACL, SIGIR, KDD, ACMMM, IJCAI,  AAAI, EMNLP, COLING, CIKM, ECAI, CCL, NLPCC, CCKS, etc.
 
-- SIGIR 2023-2024 (CCF-A, top conference of NLP).
-
-- KDD 2024 (CCF-A, top conference of data mining).
-
-- ACMMM 2024 (CCF-A, top conference of multi-media).
-
-- IJCAI 2024 (CCF-A, top conference of artificial intelligence).
-
-- AAAI 2024 (CCF-A, top conference of artificial intelligence).
-
-- EMNLP, COLING, CIKM, ECAI, CCL, NLPCC, CCKS, etc.
-
-
-## Journal Reviewer
-- IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A, SCI Q1).
-  
-- Neural Networks (NN, CCF-B, SCI Q1).
-
-- ACM Computing Surveys (CSUR, JCR 一区, SCI Q1).
-
-- Knowledge-Based Systems (KBS, JCR 一区, SCI Q1).
-
-- Transactions on the Web (TWEB, CCF-B, SCI Q1).
-
-- CAIS, JMLC, JJCIT, etc.
+- IEEE TKDE, Neural Networks, ACM Computing Surveys, Knowledge-Based Systems, Transactions on the Web, CAIS, JMLC, JJCIT, etc.
 
