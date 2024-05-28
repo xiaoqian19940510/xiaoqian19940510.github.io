@@ -145,15 +145,15 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 # Competitions
 
-[CodaLab International Competition 2021] MAVEN Channel, **Top 1**, 2021.
+- **CodaLab International Competition 2021**, MAVEN Channel, **Top 1**, 2021.
 
-[[CCKS 2021]](http://sigkg.cn/ccks2021/) Fine-grained Event Detection Competition,**Top 1**, 2021. 
+- CCKS 2021, Fine-grained Event Detection Competition,**Top 1**, 2021. 
 
-[[CCKS 2020]](http://sigkg.cn/ccks2020/?page_id=69#task4) Few-shot Cross-domain Event Extraction Competition, **Top 1**, 2020.
+- CCKS 2020, Few-shot Cross-domain Event Extraction Competition, **Top 1**, 2020.
 
-[China International College Student Innovation Competition 2023] National Silver Award, **Top 2**, 2023.
+- China International College Student Innovation Competition 2023, National Silver Award, **Top 2**, 2023.
 
-[Chint Cup 2022] The 7th China Graduate Contest on Smart-city Technology and Creative Design, **Top 2**, 2022.
+- Chint Cup 2022, The 7th China Graduate Contest on Smart-city Technology and Creative Design, **Top 2**, 2022.
   
 
 <br>
