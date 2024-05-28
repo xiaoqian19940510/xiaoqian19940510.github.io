@@ -11,7 +11,7 @@ redirect_from:
 
 I am Qian Li (李倩), currently a postdoctoral researcher at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). I received my Ph.D. degree in 2024 from [Beihang University (BUAA)](https://buaa.edu.cn/), my M.S. degree from BUPT in 2019, and my B.S. degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016.
 
-My research focused on natural language processing, knowledge graph and multi-modal machine learning. I have published a total of 18 papers in conferences/journals such as WWW, ACL, IJCAI, AAAI, COLING, CIKM, TASLP, and TNNLS, with 10 of them as the first author. Additionally, I have been granted 8 Chinese patents, with 3 of them as the first inventor by students. I was awarded the first prize of Big Data Center Science and Technology Progress by State Grid Co., LTD. Furthermore, I achieved first place in the international Data competition CodaLab Platform Event Detection Challenge. In addition, I have participated in information extraction related evaluation tasks sponsored by CCKS for two consecutive years and achieved first place and the technology innovation award. If you are interested in discussing or collaborating with me, please feel free to contact me.
+My research focused on natural language processing, knowledge graph and multi-modal machine learning. I have published a total of 19 papers in conferences/journals such as WWW, ACL, IJCAI, AAAI, COLING, CIKM, TASLP, and TNNLS, with 10 of them as the first author. Additionally, I have been granted 8 Chinese patents, with 3 of them as the first inventor by students. I was awarded the first prize of Big Data Center Science and Technology Progress by State Grid Co., LTD. Furthermore, I achieved first place in the international Data competition CodaLab Platform Event Detection Challenge. In addition, I have participated in information extraction related evaluation tasks sponsored by CCKS for two consecutive years and achieved first place and the technology innovation award. If you are interested in discussing or collaborating with me, please feel free to contact me.
 
 
 <br>
@@ -30,9 +30,14 @@ Cheng Ji, Zixuan Huang, Qingyun Sun, Hao Peng, Xingcheng Fu, <u>Qian Li</u>, Jia
 *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2024**)*, **CCF-A**.<br>
 [PDF]((https://dl.acm.org/doi/abs/10.1145/3616855.3635757](https://ojs.aaai.org/index.php/AAAI/article/view/28698)))
 
-**Few-Shot Multimodal Named Entity Recognition based on Mutlimodal Causal Intervention Graph.** *COLING 2024.*<br>
+**Few-Shot Multimodal Named Entity Recognition based on Multimodal Causal Intervention Graph.** *COLING 2024.*<br>
 Feihong Lu, Xiaocui Yang, <u>Qian Li</u>, Qingyun Sun, Ke Jiang, Cheng Ji, Jianxin Li.<br>
 *LREC-COLING 2024 (**COLING 2024**)*, **CCF-B**.<br>
+
+
+**Decomposition and recombination. A soft cascade model for event detection.** *KBS 2024.*<br>
+Yiming Hei, Jiawei Sheng, Lihong Wang, <u>Qian Li</u>, Shu Guo, Jianwei Liu.<br>
+*Knowledge-Based Systems (**KBS 2024**)*, **SCI Q1, JCR 1区, CCF-C**.<br>
 
 
 ## 2023
@@ -150,11 +155,17 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 # Awards & Honors
 
-* The Best Paper Honorable Mention Award, CIKM 2022.
+* The **Best Paper** Honorable Mention Award, CIKM 2022.
   
-* The Travel Awards, WWW 2023.
-
-* The **Top 1 Winner** of CodaLab Competition: MAVEN. 2021.
+* The **ESI Highly Cited Papers**, ACM TIST (Trans), 2024.
+  
+* The **Travel Awards**, WWW 2023.
+  
+* The **Top 1 Winner** of **CodaLab International Competition**: MAVEN Channel. 2021.
+  
+* The **Science and Technology Progress Award** of Big Data Center of State Grid Corporation of China, 2021.
+  
+* **Outstanding Graduates** of Beijing, 2024.
 
 * The **Top 1 Winner** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
 
@@ -163,8 +174,6 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 * The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
 
 * The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
-
-* The **Science and Technology Progress Award** of Big Data Center of State Grid Corporation of China, 2021.
   
 * The **second award** of "Chint Cup": The 7th China Graduate Contest on Smart-city Technology and Creative Design, 2022.
   
@@ -173,8 +182,6 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 * Outstanding Academic Innovation Achievement Award, Beihang University, 2023.
   
 * Innovation Scholarship of School of Computer Science, Beihang University, 2023.
-  
-* Outstanding Graduates of Beijing, 2024.
 
 
 <br>
@@ -195,13 +202,7 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 - AAAI 2024 (CCF-A, top conference of artificial intelligence).
 
-- EMNLP 2022-2024 (CCF-B, top conference of NLP).
-
-- COLING 2023-2024 (CCF-B, top conference of NLP).
-
-- CCL 2022-2024 (CCF-C, most authoritative and influential academic conference of NLP in China ).
-
-- CIKM 2022, ECAI 2023, etc.
+- EMNLP, COLING, CIKM, ECAI, CCL, NLPCC, CCKS, etc.
 
 
 ## Journal Reviewer
