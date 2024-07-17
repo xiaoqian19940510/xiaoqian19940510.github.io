@@ -31,15 +31,15 @@ Feihong Lu, Weiqi Wang, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haoch
 
 **L-APPLE: Language-agnostic Prototype Prefix Learning for Cross-lingual Event Detection.** *CIKM 2024.*<br>
 Ziqin Zhu, Xutan Peng, <u>Qian Li</u>, Cheng Ji, Qingyun Sun and Jianxin Li, Jianxin Li.<br>
-*ACM Multimedia 2024 (**CIKM 2024**)*, **CCF-B**.<br>
+*33st ACM International Conference on Information and Knowledge Management (**CIKM 2024**)*, **CCF-B**.<br>
 
 **Table-Filling via Mean Teacher for Cross-domain Aspect Sentiment Triplet Extraction.** *CIKM 2024.*<br>
-	Kun Peng, Lei Jiang, <u>Qian Li</u>, Haoran Li, Xiaoyan Yu, Li Sun, Shuo Sun, Yanxian Bi and Hao Peng.<br>
-*ACM Multimedia 2024 (**CIKM 2024**)*, **CCF-B**.<br>
+Kun Peng, Lei Jiang, <u>Qian Li</u>, Haoran Li, Xiaoyan Yu, Li Sun, Shuo Sun, Yanxian Bi and Hao Peng.<br>
+*33st ACM International Conference on Information and Knowledge Management (**CIKM 2024**)*, **CCF-B**.<br>
 
 **Adaptive Differentially Private Structural Entropy Minimization for Unsupervised Social Event Detection.** *CIKM 2024.*<br>
-	Zhiwei Yang, Yuecen Wei, Haoran Li, <u>Qian Li</u>, Lei Jiang, Li Sun, Xiaoyan Yu, Chunming Hu and Hao Peng.<br>
-*ACM Multimedia 2024 (**CIKM 2024**)*, **CCF-B**.<br>
+Zhiwei Yang, Yuecen Wei, Haoran Li, <u>Qian Li</u>, Lei Jiang, Li Sun, Xiaoyan Yu, Chunming Hu and Hao Peng.<br>
+33st ACM International Conference on Information and Knowledge Management (**CIKM 2024**)*, **CCF-B**.<br>
 
 
 **LLM-based Multi-Level Knowledge Generation for Few-shot Knowledge Graph Completion.** *IJCAI 2024.*<br>
