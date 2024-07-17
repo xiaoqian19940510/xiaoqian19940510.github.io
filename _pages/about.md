@@ -11,7 +11,7 @@ redirect_from:
 
 I am Qian Li (李倩), currently a postdoctoral researcher at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). I received my Ph.D. degree in 2024 from [Beihang University (BUAA)](https://buaa.edu.cn/), my M.S. degree from BUPT in 2019, and my B.S. degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016.
 
-My research focused on natural language processing, knowledge graph and multi-modal machine learning. I have published a total of 20 papers in conferences/journals such as WWW, ACL, IJCAI, AAAI, COLING, CIKM, TASLP, and TNNLS, with 11 of them as the first author. Additionally, I have been granted 8 Chinese patents, with 3 of them as the first inventor by students. I was awarded the first prize of Big Data Center Science and Technology Progress by State Grid Co., LTD. Furthermore, I achieved first place in the international Data competition CodaLab Platform Event Detection Challenge. In addition, I have participated in information extraction related evaluation tasks sponsored by CCKS for two consecutive years and achieved first place and the technology innovation award. If you are interested in discussing or collaborating with me, please feel free to contact me.
+My research focused on natural language processing, knowledge graph and multi-modal machine learning. I have published a total of 25 papers in conferences/journals such as WWW, ACL, IJCAI, AAAI, ACMMM, CIKM, TASLP, and TNNLS, with 12 of them as the first author. Additionally, I have been granted 8 Chinese patents, with 3 of them as the first inventor by students. I was awarded the first prize of Big Data Center Science and Technology Progress by State Grid Co., LTD. Furthermore, I achieved first place in the international Data competition CodaLab Platform Event Detection Challenge. In addition, I have participated in information extraction related evaluation tasks sponsored by CCKS for two consecutive years and achieved first place and the technology innovation award. If you are interested in discussing or collaborating with me, please feel free to contact me.
 
 
 <br>
@@ -20,6 +20,28 @@ My research focused on natural language processing, knowledge graph and multi-mo
 
 
 ## 2024
+
+**Multi-Modal Inductive Framework for Text-Video Retrieval.** *ACM MM 2024.*<br>
+<u>Qian Li</u>, Yucheng Zhou, Cheng Ji, Feihong Lu, Jianian Gong, Shangguang Wang, Jianxin Li.<br>
+*ACM Multimedia 2024 (**ACM MM 2024**)*, **CCF-A**.<br>
+
+**MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.** *ACM MM 2024.*<br>
+Feihong Lu, Weiqi Wang, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, <u>Qian Li</u>, Yangqiu Song, Jianxin Li.<br>
+*ACM Multimedia 2024 (**ACM MM 2024**)*, **CCF-A**.<br>
+
+**L-APPLE: Language-agnostic Prototype Prefix Learning for Cross-lingual Event Detection.** *CIKM 2024.*<br>
+Ziqin Zhu, Xutan Peng, <u>Qian Li</u>, Cheng Ji, Qingyun Sun and Jianxin Li, Jianxin Li.<br>
+*ACM Multimedia 2024 (**CIKM 2024**)*, **CCF-B**.<br>
+
+**Table-Filling via Mean Teacher for Cross-domain Aspect Sentiment Triplet Extraction.** *CIKM 2024.*<br>
+	Kun Peng, Lei Jiang, <u>Qian Li</u>, Haoran Li, Xiaoyan Yu, Li Sun, Shuo Sun, Yanxian Bi and Hao Peng.<br>
+*ACM Multimedia 2024 (**CIKM 2024**)*, **CCF-B**.<br>
+
+**Adaptive Differentially Private Structural Entropy Minimization for Unsupervised Social Event Detection.** *CIKM 2024.*<br>
+	Zhiwei Yang, Yuecen Wei, Haoran Li, <u>Qian Li</u>, Lei Jiang, Li Sun, Xiaoyan Yu, Chunming Hu and Hao Peng.<br>
+*ACM Multimedia 2024 (**CIKM 2024**)*, **CCF-B**.<br>
+
+
 **LLM-based Multi-Level Knowledge Generation for Few-shot Knowledge Graph Completion.** *IJCAI 2024.*<br>
 <u>Qian Li</u>, Zhuo Chen, Cheng Ji, Shiqi Jiang, Jianxin Li.<br>
 *The 33rd International Joint Conference on Artificial Intelligence (**IJCAI 2024**)*, **CCF-A**.<br>
