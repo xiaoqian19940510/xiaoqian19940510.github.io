@@ -39,7 +39,7 @@ Kun Peng, Lei Jiang, <u>Qian Li</u>, Haoran Li, Xiaoyan Yu, Li Sun, Shuo Sun, Ya
 
 **Adaptive Differentially Private Structural Entropy Minimization for Unsupervised Social Event Detection.** *CIKM 2024.*<br>
 Zhiwei Yang, Yuecen Wei, Haoran Li, <u>Qian Li</u>, Lei Jiang, Li Sun, Xiaoyan Yu, Chunming Hu and Hao Peng.<br>
-33st ACM International Conference on Information and Knowledge Management (**CIKM 2024**)*, **CCF-B**.<br>
+*33st ACM International Conference on Information and Knowledge Management (**CIKM 2024**)*, **CCF-B**.<br>
 
 
 **LLM-based Multi-Level Knowledge Generation for Few-shot Knowledge Graph Completion.** *IJCAI 2024.*<br>
