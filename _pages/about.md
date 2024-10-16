@@ -29,6 +29,19 @@ My research focused on natural language processing, knowledge graph and multi-mo
 Feihong Lu, Weiqi Wang, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, <u>Qian Li</u>, Yangqiu Song, Jianxin Li.<br>
 *ACM Multimedia 2024 (**ACM MM 2024**)*, **CCF-A**.<br>
 
+**LLM-based Multi-Level Knowledge Generation for Few-shot Knowledge Graph Completion.** *IJCAI 2024.*<br>
+<u>Qian Li</u>, Zhuo Chen, Cheng Ji, Shiqi Jiang, Jianxin Li.<br>
+*The 33rd International Joint Conference on Artificial Intelligence (**IJCAI 2024**)*, **CCF-A**.<br>
+
+**ReGCL: Rethinking Message Passing in Graph Contrastive Learning.** *AAAI 2024.*<br>
+Cheng Ji, Zixuan Huang, Qingyun Sun, Hao Peng, Xingcheng Fu, <u>Qian Li</u>, Jianxin Li.<br>
+*Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2024**)*, **CCF-A**.<br>
+[PDF]((https://dl.acm.org/doi/abs/10.1145/3616855.3635757](https://ojs.aaai.org/index.php/AAAI/article/view/28698)))
+
+**MKGL: Mastery of a Three-Word Language.** *NeurIPS (Spotlight) 2024.*<be>
+Lingbing Guo Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Lan Yarong, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, <u>Qian Li</u>, Qiang Zhang, Wen Zhang, Huajun Chen.<br>
+*Advances in Neural Information Processing Systems 2024 (**NeurIPS (Spotlight)**)*, **CCF-A**.<br>
+
 **L-APPLE: Language-agnostic Prototype Prefix Learning for Cross-lingual Event Detection.** *CIKM 2024.*<br>
 Ziqin Zhu, Xutan Peng, <u>Qian Li</u>, Cheng Ji, Qingyun Sun and Jianxin Li, Jianxin Li.<br>
 *33st ACM International Conference on Information and Knowledge Management (**CIKM 2024**)*, **CCF-B**.<br>
@@ -40,16 +53,6 @@ Kun Peng, Lei Jiang, <u>Qian Li</u>, Haoran Li, Xiaoyan Yu, Li Sun, Shuo Sun, Ya
 **Adaptive Differentially Private Structural Entropy Minimization for Unsupervised Social Event Detection.** *CIKM 2024.*<br>
 Zhiwei Yang, Yuecen Wei, Haoran Li, <u>Qian Li</u>, Lei Jiang, Li Sun, Xiaoyan Yu, Chunming Hu and Hao Peng.<br>
 *33st ACM International Conference on Information and Knowledge Management (**CIKM 2024**)*, **CCF-B**.<br>
-
-
-**LLM-based Multi-Level Knowledge Generation for Few-shot Knowledge Graph Completion.** *IJCAI 2024.*<br>
-<u>Qian Li</u>, Zhuo Chen, Cheng Ji, Shiqi Jiang, Jianxin Li.<br>
-*The 33rd International Joint Conference on Artificial Intelligence (**IJCAI 2024**)*, **CCF-A**.<br>
-
-**ReGCL: Rethinking Message Passing in Graph Contrastive Learning.** *AAAI 2024.*<br>
-Cheng Ji, Zixuan Huang, Qingyun Sun, Hao Peng, Xingcheng Fu, <u>Qian Li</u>, Jianxin Li.<br>
-*Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2024**)*, **CCF-A**.<br>
-[PDF]((https://dl.acm.org/doi/abs/10.1145/3616855.3635757](https://ojs.aaai.org/index.php/AAAI/article/view/28698)))
 
 **Few-Shot Multimodal Named Entity Recognition based on Multimodal Causal Intervention Graph.** *COLING 2024.*<br>
 Feihong Lu, Xiaocui Yang, <u>Qian Li</u>, Qingyun Sun, Ke Jiang, Cheng Ji, Jianxin Li.<br>
