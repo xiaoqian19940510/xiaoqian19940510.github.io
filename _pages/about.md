@@ -38,7 +38,7 @@ Cheng Ji, Zixuan Huang, Qingyun Sun, Hao Peng, Xingcheng Fu, <u>Qian Li</u>, Jia
 *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2024**)*, **CCF-A**.<br>
 [PDF]((https://dl.acm.org/doi/abs/10.1145/3616855.3635757](https://ojs.aaai.org/index.php/AAAI/article/view/28698)))
 
-**MKGL: Mastery of a Three-Word Language.** *NeurIPS (Spotlight) 2024.*<be>
+**MKGL: Mastery of a Three-Word Language.** *NeurIPS (Spotlight) 2024.*<br>
 Lingbing Guo Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Lan Yarong, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, <u>Qian Li</u>, Qiang Zhang, Wen Zhang, Huajun Chen.<br>
 *Advances in Neural Information Processing Systems 2024 (**NeurIPS (Spotlight)**)*, **CCF-A**.<br>
 
