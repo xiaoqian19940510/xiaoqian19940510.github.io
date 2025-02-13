@@ -18,6 +18,16 @@ My research focused on natural language processing, knowledge graph and multi-mo
 
 # Publications
 
+## 2025
+
+**Lightweight Contenders: Navigating Semi-Supervised Text Mining through Peer Collaboration and Self Transcendence.** <br>
+Qianren Mao, Weifeng Jiang, Junnan Liu, Chenghua Lin, <u>Qian Li</u>, Xianqing Wen, Jianxin Li, Jinhu Lu.<br>
+*2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL 2025**)*, **CCF-B**.<be>
+
+**RCEAE: A Role Correlation-enhanced Model for Event Argument Extraction.** <br>
+Yiming Hei, Jiawei Sheng, Shu Guo, Lihong Wang, <u>Qian Li</u>, Jianwei Liu, Yizhong Liu, Prayag Tiwari.<br>
+*Neurocomputing*.<br>
+
 
 ## 2024
 
@@ -192,7 +202,9 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 ## Conference/Journal Reviewer
 
-- ACL, NIPS, ICLR, SIGIR, KDD, ACMMM, IJCAI,  AAAI, EMNLP, COLING, CIKM, ECAI, CCL, NLPCC, CCKS, etc.
+- Meta-Reviewer of IJCAI, ACL Rolling.
 
-- IEEE TKDE, Neural Networks, ACM Computing Surveys, Knowledge-Based Systems, Transactions on the Web, CAIS, JMLC, etc.
+- Reviewer of ACL, NIPS, ICLR, SIGIR, KDD, ACMMM, IJCAI,  AAAI, EMNLP, COLING, CIKM, ECAI, CCL, NLPCC, CCKS, etc.
+
+- Reviewer of IEEE TKDE, Neural Networks, ACM Computing Surveys, Knowledge-Based Systems, Transactions on the Web, CAIS, JMLC, etc.
 
