@@ -22,7 +22,7 @@ My research focused on natural language processing, knowledge graph and multi-mo
 
 **Lightweight Contenders: Navigating Semi-Supervised Text Mining through Peer Collaboration and Self Transcendence.** <br>
 Qianren Mao, Weifeng Jiang, Junnan Liu, Chenghua Lin, <u>Qian Li</u>, Xianqing Wen, Jianxin Li, Jinhu Lu.<br>
-*Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL 2025**)*, *CCF-B*.<be>
+***NAACL 2025***, *CCF-B*.<be>
 
 **RCEAE: A Role Correlation-enhanced Model for Event Argument Extraction.** <br>
 Yiming Hei, Jiawei Sheng, Shu Guo, Lihong Wang, <u>Qian Li</u>, Jianwei Liu, Yizhong Liu, Prayag Tiwari.<br>
