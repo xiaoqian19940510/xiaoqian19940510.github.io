@@ -9,7 +9,7 @@ author_profile: true
   
 * The **ESI Highly Cited Papers**, ACM TIST (Trans) 2024.
  
-*  The **ESI Highly Cited Papers**, ACM TNNLS (Trans) 2024.
+*  The **ESI Highly Cited Papers**, ACM TNNLS (Trans) 2025.
   
 * The Travel Awards, WWW 2023.
   
