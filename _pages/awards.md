@@ -8,6 +8,8 @@ author_profile: true
 * The **Best Paper** Honorable Mention Award, CIKM 2022.
   
 * The **ESI Highly Cited Papers**, ACM TIST (Trans) 2024.
+ 
+*  The **ESI Highly Cited Papers**, ACM TNNLS (Trans) 2024.
   
 * The Travel Awards, WWW 2023.
   
