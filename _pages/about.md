@@ -94,7 +94,7 @@ Ce Zhou, <u>Qian Li</u>, Chen Li, Jun Yu, Yixin Liu, Guangjing Wang, Kai Zhang, 
 
 **Dual-Gated Fusion with Prefix-Tuning for Multi-Modal Relation Extraction.** <br>
 <u>Qian Li</u>, Shu Guo, Cheng Ji, Xutan Peng, Shiyao Cui, Jianxin Li, Lihong Wang.<br>
-*The 61st Annual Meeting of the Association for Computational Linguistics (**ACL findings 2023**)*, **CCF-A**.<br>
+*The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)*, **CCF-A**.<br>
 [PDF]
 [[Code]](https://github.com/xiaoqian19940510/DGF-PT)
 
@@ -106,7 +106,7 @@ Ce Zhou, <u>Qian Li</u>, Chen Li, Jun Yu, Yixin Liu, Guangjing Wang, Kai Zhang, 
 
 **Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment.** <br>
 <u>Qian Li</u>, Cheng Ji, Shu Guo, Zhaoji Liang, Lihong Wang, Jianxin Li.<br>
-*Findings of the Association for Computational Linguistics: EMNLP 2023 (**EMNLP 2023 Findings**)*, **CCF-B**.<br>
+*Findings of the Association for Computational Linguistics: EMNLP 2023 (**EMNLP 2023**)*, **CCF-B**.<br>
 [PDF](https://aclanthology.org/2023.findings-emnlp.70/)
 
 
@@ -172,7 +172,7 @@ Yiming Hei, <u>Qian Li</u>, Caibo Zhou, Rui Sun, Jinglin Yang, Jiawei Sheng, Shu
 
 **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.** <br>
 Jiawei Sheng, Shu Guo, Bowen Yu, <u>Qian Li</u>, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.<br>
-*In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**)*, **CCF-A**<br>
+*The 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**)*, **CCF-A**<br>
 [[PDF]](https://aclanthology.org/2021.findings-acl.14/)
 [Code]
 
@@ -205,9 +205,10 @@ iawei Sheng, <u>Qian Li</u>, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He,
 
 ## Conference/Journal Reviewer
 
-- Meta-Reviewer of IJCAI, ACL Rolling.
+- ACL Rolling Area Chair, Meta-Reviewer and Session Chair of IJCAI.
+- SIGIR 2025 Workshop Program Chair, IEEE ICBDSE 2025 Workshop Chair、IEEE DLCV 2025 Workshop Chair
 
 - Reviewer of ACL, NIPS, ICLR, SIGIR, KDD, ACMMM, IJCAI,  AAAI, EMNLP, COLING, CIKM, ECAI, CCL, NLPCC, CCKS, etc.
 
-- Reviewer of IEEE TKDE, Neural Networks, ACM Computing Surveys, Knowledge-Based Systems, Transactions on the Web, CAIS, JMLC, etc.
+- Reviewer of IEEE TKDE, IEEE TOIS, IEEE TKDD, ACM Computing Surveys, Knowledge-Based Systems, etc.
 
