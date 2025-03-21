@@ -9,7 +9,7 @@ author_profile: true
   
 * The **ESI Highly Cited Papers**, ACM TIST (Trans) 2024.
   
-* The **Travel Awards**, WWW 2023.
+* The Travel Awards, WWW 2023.
   
 * IEEE Computer Society TCCLD, **Technical Innovation Award**, 2024
   
