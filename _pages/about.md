@@ -101,7 +101,7 @@ Ce Zhou, <u>Qian Li</u>, Chen Li, Jun Yu, Yixin Liu, Guangjing Wang, Kai Zhang, 
 
 **Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment.** <br>
 <u>Qian Li</u>, Cheng Ji, Shu Guo, Zhaoji Liang, Lihong Wang, Jianxin Li.<br>
-*Findings of the Association for Computational Linguistics: EMNLP 2023 (**EMNLP 2023**)*, *CCF-B*.<br>
+*Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**)*, *CCF-B*.<br>
 
 
 
