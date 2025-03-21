@@ -11,6 +11,8 @@ author_profile: true
   
 * The **Travel Awards**, WWW 2023.
   
+* IEEE Computer Society TCCLD, **Technical Innovation Award**, 2024
+  
 * The **Top 1 Winner** of **CodaLab International Competition**: MAVEN Channel, 2021.
   
 * The **Science and Technology Progress Award** of Big Data Center of State Grid Corporation of China, 2021.
