@@ -22,19 +22,19 @@ My research focused on natural language processing, knowledge graph and multi-mo
 
 **Multimodal Knowledge Retrieval-Augmented Iterative Alignment for Satellite Commonsense Conversation.** <br>
 <u>Qian Li</u>, Xuchen Li, Zongyu Chang, Yuzheng Zhang, Cheng Ji, Shangguang Wang.<br>
-***IJCAI 2025***, *CCF-A*.<be>
+*The 34rd International Joint Conference on Artificial Intelligence (**IJCAI 2025**)*, **CCF-A**.<br>
 
 **Variational Multi-Modal Hypergraph Attention Network for Multi-Modal Relation Extraction.** <br>
 <u>Qian Li</u>, Cheng Ji, Shu Guo, Peng Kun, <u>Qianren Mao</u>, Shangguang Wang.<br>
-***IJCAI 2025***, *CCF-A*.<be>
+*The 34rd International Joint Conference on Artificial Intelligence (**IJCAI 2025**)*, **CCF-A**.<br>
 
 **OS-GCL: A One-Shot Learner in Graph Contrastive Learning.** <br>
 Cheng Ji, Chenrui He, <u>Qian Li</u>, Qingyun Sun, Xingcheng Fu, Jianxin Li.<br>
-***IJCAI 2025***, *CCF-A*.<be>
+*The 34rd International Joint Conference on Artificial Intelligence (**IJCAI 2025**)*, **CCF-A**.<br>
 
 **T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction.** <br>
 Kun Peng, Chaodong Tong, Cong Cao, Hao Peng, <u>Qian Li</u>, Guanlin Wu, Lei Jiang, Yanbing Liu, Philip S. Yu.<br>
-***IJCAI 2025***, *CCF-A*.<be>
+*The 34rd International Joint Conference on Artificial Intelligence (**IJCAI 2025**)*, **CCF-A**.<br>
 
 **Lightweight Contenders: Navigating Semi-Supervised Text Mining through Peer Collaboration and Self Transcendence.** <br>
 Qianren Mao, Weifeng Jiang, Junnan Liu, Chenghua Lin, <u>Qian Li</u>, Xianqing Wen, Jianxin Li, Jinhu Lu.<br>
