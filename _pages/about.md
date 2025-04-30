@@ -11,7 +11,7 @@ redirect_from:
 
 I am Qian Li (李倩), currently a postdoctoral researcher at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). I received my Ph.D. degree in 2024 from [Beihang University (BUAA)](https://buaa.edu.cn/), my M.S. degree from BUPT in 2019, and my B.S. degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2016.
 
-My research focused on natural language processing, knowledge graph and multi-modal machine learning. I have published a total of 27 papers in conferences/journals such as WWW, ACL, IJCAI, AAAI, ACMMM, CIKM, TASLP, and TNNLS, with 12 of them as the first author. Additionally, I have been granted 8 Chinese patents, with 3 of them as the first inventor by students. I was awarded the first prize of Big Data Center Science and Technology Progress by State Grid Co., LTD. Furthermore, I achieved first place in the international Data competition CodaLab Platform Event Detection Challenge. In addition, I have participated in information extraction related evaluation tasks sponsored by CCKS for two consecutive years and achieved first place and the technology innovation award. If you are interested in discussing or collaborating with me, please feel free to contact me.
+My research focused on natural language processing, knowledge graph and multi-modal machine learning. I have published a total of 31 papers in conferences/journals such as WWW, ACL, IJCAI, AAAI, ACMMM, CIKM, TASLP, and TNNLS, with 14 of them as the first author. Additionally, I have been granted 9 Chinese patents, with 3 of them as the first inventor by students. I was awarded the first prize of Big Data Center Science and Technology Progress by State Grid Co., LTD. Furthermore, I achieved first place in the international Data competition CodaLab Platform Event Detection Challenge. In addition, I have participated in information extraction related evaluation tasks sponsored by CCKS for two consecutive years and achieved first place and the technology innovation award. If you are interested in discussing or collaborating with me, please feel free to contact me.
 
 
 <br>
@@ -19,6 +19,22 @@ My research focused on natural language processing, knowledge graph and multi-mo
 # Publications
 
 ## 2025
+
+**Multimodal Knowledge Retrieval-Augmented Iterative Alignment for Satellite Commonsense Conversation.** <br>
+<u>Qian Li</u>, Xuchen Li, Zongyu Chang, Yuzheng Zhang, Cheng Ji, Shangguang Wang.<br>
+***IJCAI 2025***, *CCF-A*.<be>
+
+**Variational Multi-Modal Hypergraph Attention Network for Multi-Modal Relation Extraction.** <br>
+<u>Qian Li</u>, Cheng Ji, Shu Guo, Peng Kun, <u>Qianren Mao</u>, Shangguang Wang.<br>
+***IJCAI 2025***, *CCF-A*.<be>
+
+**OS-GCL: A One-Shot Learner in Graph Contrastive Learning.** <br>
+Cheng Ji, Chenrui He, <u>Qian Li</u>, Qingyun Sun, Xingcheng Fu, Jianxin Li.<br>
+***IJCAI 2025***, *CCF-A*.<be>
+
+**T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction.** <br>
+Kun Peng, Chaodong Tong, Cong Cao, Hao Peng, <u>Qian Li</u>, Guanlin Wu, Lei Jiang, Yanbing Liu, Philip S. Yu.<br>
+***IJCAI 2025***, *CCF-A*.<be>
 
 **Lightweight Contenders: Navigating Semi-Supervised Text Mining through Peer Collaboration and Self Transcendence.** <br>
 Qianren Mao, Weifeng Jiang, Junnan Liu, Chenghua Lin, <u>Qian Li</u>, Xianqing Wen, Jianxin Li, Jinhu Lu.<br>
