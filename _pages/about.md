@@ -196,7 +196,7 @@ Jiawei Sheng, Shu Guo, Bowen Yu, <u>Qian Li</u>, Yiming Hei, Lihong Wang, Tingwe
 
 ## Conference/Journal Reviewer
 
-- NeurIPS Area Chair, ACL Rolling Area Chair, Meta-Reviewer and Session Chair of IJCAI.
+- NeurIPS Area Chair, ACL Rolling Area Chair, Meta-Reviewer and Session Chair of IJCAI, CCL Area Chair.
 - SIGIR 2025 Workshop Program Chair, IEEE ICBDSE 2025 Workshop Chair、IEEE DLCV 2025 Workshop Chair
 
 - Reviewer of ACL, NIPS, ICLR, SIGIR, KDD, ACMMM, IJCAI,  AAAI, EMNLP, COLING, CIKM, ECAI, CCL, NLPCC, CCKS, etc.
