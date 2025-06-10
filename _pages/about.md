@@ -25,7 +25,7 @@ My research focused on natural language processing, knowledge graph and multi-mo
 *The 34rd International Joint Conference on Artificial Intelligence (**IJCAI 2025**)*, **CCF-A**.<br>
 
 **Variational Multi-Modal Hypergraph Attention Network for Multi-Modal Relation Extraction.** <br>
-<u>Qian Li</u>, Cheng Ji, Shu Guo, Peng Kun, <u>Qianren Mao</u>, Shangguang Wang.<br>
+<u>Qian Li</u>, Cheng Ji, Shu Guo, Peng Kun, Qianren Mao, Shangguang Wang.<br>
 *The 34rd International Joint Conference on Artificial Intelligence (**IJCAI 2025**)*, **CCF-A**.<br>
 
 **OS-GCL: A One-Shot Learner in Graph Contrastive Learning.** <br>
