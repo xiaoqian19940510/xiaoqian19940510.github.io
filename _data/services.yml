@@ -1,0 +1,24 @@
+# Academic and Social Services
+
+conference_journal_reviewer:
+  leadership_roles:
+    - role: "Area Chair"
+      venues: ["NeurIPS", "ACL Rolling", "CCL"]
+    - role: "Meta-Reviewer"
+      venues: ["IJCAI"]
+    - role: "Session Chair"
+      venues: ["IJCAI"]
+  
+  workshop_chairs:
+    - role: "SIGIR 2025 Workshop Program Chair"
+      year: "2025"
+    - role: "IEEE ICBDSE 2025 Workshop Chair"
+      year: "2025"
+    - role: "IEEE DLCV 2025 Workshop Chair"
+      year: "2025"
+  
+  conference_reviews:
+    venues: ["ACL", "NIPS", "ICLR", "SIGIR", "KDD", "ACMMM", "IJCAI", "AAAI", "EMNLP", "COLING", "CIKM", "ECAI", "CCL", "NLPCC", "CCKS"]
+  
+  journal_reviews:
+    venues: ["IEEE TKDE", "IEEE TOIS", "IEEE TKDD", "ACM Computing Surveys", "Knowledge-Based Systems"] 

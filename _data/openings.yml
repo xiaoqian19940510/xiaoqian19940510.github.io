@@ -1,0 +1,54 @@
+# 招生状态
+recruiting: true
+recruiting_message: "I am actively looking for motivated students to join my research group!"
+
+# 招生类型
+positions:
+  - type: "Ph.D. Students"
+    available: 2
+    description: "Seeking Ph.D. candidates with strong background in NLP or Machine Learning"
+  - type: "Master's Students"
+    available: 3
+    description: "Accepting Master's students interested in knowledge graph and multimodal learning"
+  - type: "Research Interns"
+    available: 1
+    description: "Undergraduate research internship opportunities available"
+
+# 对学生的期望
+student_expectations:
+  - "Strong mathematical foundation and programming skills (Python, PyTorch/TensorFlow)"
+  - "Solid background in machine learning, deep learning, or natural language processing"
+  - "Experience with research projects or publications (preferred but not required)"
+  - "Good English writing and communication skills"
+  - "Self-motivated and able to work independently"
+  - "Passionate about cutting-edge AI research"
+
+# 研究方向
+research_directions:
+  - title: "Knowledge Graph Construction and Reasoning"
+    description: "Developing methods for automatic knowledge graph construction and multi-hop reasoning"
+    icon: "🧠"
+  - title: "Multimodal Information Extraction"
+    description: "Extracting structured information from text, images, and videos"
+    icon: "🔍"
+  - title: "Large Language Models for Knowledge"
+    description: "Leveraging LLMs for knowledge-intensive tasks and graph completion"
+    icon: "🤖"
+
+# 申请流程
+application_process:
+  - step: 1
+    title: "Initial Contact"
+    description: "Send me an email with your CV, research interests, and transcripts"
+  - step: 2
+    title: "Research Discussion"
+    description: "We'll have a video call to discuss potential research directions"
+  - step: 3
+    title: "Formal Application"
+    description: "Apply through the university's official admission system"
+
+# 联系方式
+contact_info:
+  email: "li.qian@bupt.edu.cn"
+  subject_line: "[PhD/Master Application] Your Name - Research Interest"
+  response_time: "I typically respond within 3-5 business days" 

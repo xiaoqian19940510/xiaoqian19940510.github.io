@@ -1,0 +1,23 @@
+intro: I feel great honored to mentor the following talented students
+
+students:
+  - name: 王亚珩
+    name_en: Wang Yaheng
+    affiliation: 未来学院
+    level: 本科生
+    achievement: 指导他获北京市自然科学基金本科生"启研"计划
+    avatar_color: "#4F46E5"
+    
+  - name: 常宗煜
+    name_en: Chang Zongyu
+    affiliation: 研究生
+    level: 多模态大模型方向
+    achievement: 论文发表在IJCAI 2025
+    avatar_color: "#059669"
+    
+  - name: 李旭宸
+    name_en: Li Xuchen
+    affiliation: 北邮计算机第一
+    level: 毕业去中科院自动化所
+    achievement: 论文发表在IJCAI 2025
+    avatar_color: "#DC2626" 

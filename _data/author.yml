@@ -1,0 +1,49 @@
+# 作者基本信息
+name: "Qian Li"
+name_chinese: "李倩"
+title: "Postdoc. in Knowledge Graph"
+affiliation: "Beijing University of Posts and Telecommunications (BUPT)"
+location: "Beijing, China"
+
+# 联系方式
+contact:
+  email: "li.qian@bupt.edu.cn"
+  github: "https://github.com/xiaoqian19940510"
+  google_scholar: "https://scholar.google.com/citations?user=AHg-JGIAAAAJ&hl=zh-CN"
+  
+# 个人照片
+photo: "/assets/images/qian_li.jpg"
+
+# 研究兴趣
+research_interests:
+  - "Natural Language Processing"
+  - "Knowledge Graph"
+  - "Multi-modal Machine Learning"
+
+# 个人简介
+bio: |
+  I am Qian Li (李倩), currently a postdoctoral researcher at Beijing University of Posts and Telecommunications (BUPT). 
+  I received my Ph.D. degree in 2024 from Beihang University (BUAA), my M.S. degree from BUPT in 2019, 
+  and my B.S. degree from Central South University (CSU) in 2016.
+  
+  My research focused on natural language processing, knowledge graph and multi-modal machine learning. 
+  I have published a total of 31 papers in conferences/journals such as WWW, ACL, IJCAI, AAAI, ACMMM, CIKM, TASLP, and TNNLS, 
+  with 14 of them as the first author.
+
+# 指导理念
+mentorship_philosophy: |
+  I believe in fostering independent thinking while providing structured guidance. 
+  I encourage students to explore cutting-edge research areas and develop both technical skills and academic writing abilities.
+  If you are interested in discussing or collaborating with me, please feel free to contact me.
+
+# 教育经历
+education:
+  - degree: "Ph.D. in Computer Science"
+    institution: "Beihang University (BUAA)"
+    year: "2024"
+  - degree: "M.S. in Computer Science"
+    institution: "Beijing University of Posts and Telecommunications (BUPT)"
+    year: "2019"
+  - degree: "B.S. in Computer Science"
+    institution: "Central South University (CSU)"
+    year: "2016" 

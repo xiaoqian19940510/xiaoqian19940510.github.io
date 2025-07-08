@@ -1,0 +1,149 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %d, %Y" }}
+      </time>
+      {% if page.categories.size > 0 %}
+        <span class="post-categories">
+          {% for category in page.categories %}
+            <span class="category">{{ category }}</span>
+          {% endfor %}
+        </span>
+      {% endif %}
+    </p>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if page.featured %}
+    <div class="post-featured">
+      <span class="featured-badge">Featured</span>
+    </div>
+  {% endif %}
+</article>
+
+<style>
+.post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 6rem 1rem 2rem; /* fallback for browsers without CSS variable support */
+  padding: calc(var(--navbar-height) + 2rem) 1rem 2rem;
+}
+
+.post-header {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 1rem;
+  text-align: center;
+}
+
+.post-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #1a1a1a;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.post-categories {
+  margin-left: 1rem;
+}
+
+.category {
+  background: #f0f8ff;
+  color: #2563eb;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+}
+
+.post-content {
+  line-height: 1.8;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+[data-theme="dark"] .post-content {
+  color: #e0e0e0;
+}
+
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.post-content p {
+  margin-bottom: 1rem;
+}
+
+.post-featured {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.featured-badge {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* Responsive design */
+@media (max-width: 767px) {
+  .post {
+    padding: 5rem 0.5rem 1rem; /* fallback */
+    padding: calc(var(--navbar-height) + 1rem) 0.5rem 1rem;
+  }
+  
+  .post-title {
+    font-size: 2rem;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .post-title {
+    color: #f0f0f0;
+  }
+  
+  .post-header {
+    border-bottom-color: #333;
+  }
+  
+  .category {
+    background: #1e3a8a;
+    color: #93c5fd;
+  }
+}
+
+[data-theme="dark"] .post-title {
+  color: #f0f0f0;
+}
+
+[data-theme="dark"] .post-header {
+  border-bottom-color: #333;
+}
+
+[data-theme="dark"] .category {
+  background: #1e3a8a;
+  color: #93c5fd;
+}
+</style> 

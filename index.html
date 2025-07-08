@@ -1,0 +1,437 @@
+---
+layout: default
+title: "Home"
+---
+
+<!-- Hero Section -->
+<section class="hero" id="hero">
+    <div class="container">
+        <div class="hero-content">
+            <div class="hero-image">
+                <img src="{{ site.data.author.photo | relative_url }}" alt="{{ site.data.author.name }}" class="profile-image">
+            </div>
+            <div class="hero-text">
+                <h1 class="hero-title">
+                    <span class="name-en">{{ site.data.author.name }}</span>
+                    <span class="name-zh">{{ site.data.author.name_chinese }}</span>
+                </h1>
+                <p class="hero-subtitle">{{ site.data.author.title }}</p>
+                <p class="hero-affiliation">{{ site.data.author.affiliation }}</p>
+                <div class="hero-contact-info">
+                    <p class="hero-location">
+                        <i class="fas fa-map-marker-alt"></i> {{ site.data.author.location }}
+                    </p>
+                    <p class="hero-email">
+                        <i class="fas fa-envelope"></i> {{ site.data.author.contact.email }}
+                    </p>
+                </div>
+                
+                <div class="hero-interests">
+                    {% for interest in site.data.author.research_interests %}
+                    <span class="interest-tag">{{ interest }}</span>
+                    {% endfor %}
+                </div>
+                
+                <div class="hero-links">
+                    <a href="mailto:{{ site.data.author.contact.email }}" class="hero-link">
+                        <i class="fas fa-envelope"></i> Email
+                    </a>
+                    <a href="{{ site.data.author.contact.github }}" class="hero-link" target="_blank">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="{{ site.data.author.contact.google_scholar }}" class="hero-link" target="_blank">
+                        <i class="fas fa-graduation-cap"></i> Google Scholar
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- About Section -->
+<section class="about" id="about">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="section-title">About Me</h2>
+        </div>
+        <div class="about-content">
+            <div class="about-text">
+                <div class="bio">
+                    {{ site.data.author.bio | markdownify }}
+                </div>
+                <div class="mentorship">
+                    <h3>Mentorship Philosophy</h3>
+                    {{ site.data.author.mentorship_philosophy | markdownify }}
+                </div>
+            </div>
+            <div class="about-sidebar">
+                <div class="education">
+                    <h3>Education</h3>
+                    <div class="education-timeline">
+                        {% for edu in site.data.author.education %}
+                        <div class="timeline-item">
+                            <div class="timeline-year">{{ edu.year }}</div>
+                            <div class="timeline-content">
+                                <h4>{{ edu.degree }}</h4>
+                                <p>{{ edu.institution }}</p>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- News Section -->
+<section class="news" id="news">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="section-title">Latest News</h2>
+        </div>
+        
+        <div class="news-list">
+            {% assign recent_posts = site.posts | limit: 5 %}
+            {% for post in recent_posts %}
+            <div class="news-item" onclick="window.location.href='{{ post.url | relative_url }}'">
+                <div class="news-header">
+                    <div class="news-date">{{ post.date | date: "%b %d, %Y" }}</div>
+                    <h3 class="news-title">
+                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    </h3>
+                </div>
+                <div class="news-content">
+                    <p>{{ post.content | strip_html | strip_newlines }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- Publications Section -->
+<section class="publications" id="publications">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="section-title">Publications</h2>
+        </div>
+        
+        <!-- Publication Filters -->
+        <div class="pub-filters">
+            <div class="filter-group">
+                <label class="filter-label">Year:</label>
+                <select id="yearFilter" class="filter-select">
+                    <option value="all">All Years</option>
+                    {% for year in site.data.publications.stats.years_active reversed %}
+                    <option value="{{ year }}">{{ year }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label class="filter-label">CCF Rank:</label>
+                <select id="ccfFilter" class="filter-select">
+                    <option value="all">All Ranks</option>
+                    <option value="A">CCF-A</option>
+                    <option value="B">CCF-B</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label class="filter-label">Type:</label>
+                <select id="typeFilter" class="filter-select">
+                    <option value="all">All Types</option>
+                    <option value="conference">Conference</option>
+                    <option value="journal">Journal</option>
+                </select>
+            </div>
+            
+            <button class="filter-reset" onclick="resetFilters()">
+                <i class="fas fa-undo"></i> Reset
+            </button>
+        </div>
+        
+        <!-- Publications List -->
+        <div class="publications-list" id="publicationsList">
+            {% assign sorted_papers = site.data.publications.papers | sort: 'year' | reverse %}
+            {% for paper in sorted_papers %}
+            <article class="pub-item{% if forloop.index > 10 %} pub-item-hidden{% endif %}" 
+                     data-year="{{ paper.year }}" 
+                     data-ccf="{% if paper.ccf_rank %}{{ paper.ccf_rank }}{% else %}other{% endif %}" 
+                     data-type="{{ paper.type }}"
+                     data-featured="{{ paper.featured }}"
+                     data-index="{{ forloop.index }}">
+                
+                <div class="pub-content">
+                    <div class="pub-title-line">
+                        <div class="pub-year-badge">{{ paper.year }}</div>
+                        <div class="pub-venue-badge">{{ paper.venue }}</div>
+                        <h3 class="pub-title">
+                            <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+                        </h3>
+                    </div>
+                    
+                    <div class="pub-authors">
+                        {% for author in paper.authors %}
+                            {% if author == "Qian Li" %}
+                                <strong>{{ author }}</strong>
+                            {% else %}
+                                {{ author }}
+                            {% endif %}
+                            {% unless forloop.last %}, {% endunless %}
+                        {% endfor %}
+                    </div>
+                    
+                    <div class="pub-venue-tags-line">
+                        <div class="pub-venue-full">{{ paper.venue_full }}</div>
+                        <div class="pub-tags-horizontal">
+                            {% if paper.ccf_rank %}
+                            <span class="tag-mini ccf-{{ paper.ccf_rank | downcase }}">CCF-{{ paper.ccf_rank }}</span>
+                            {% else %}
+                            <span class="tag-mini ccf-other">Other</span>
+                            {% endif %}
+                            {% if paper.esi_highly_cited %}
+                            <span class="tag-mini esi">ESI Highly Cited</span>
+                            {% endif %}
+                            {% if paper.impact_factor %}
+                            <span class="tag-mini impact">IF: {{ paper.impact_factor }}</span>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+        
+        <!-- Show More Button -->
+        <div class="publications-expand" id="publicationsExpand">
+            <button class="expand-btn" id="expandBtn" onclick="togglePublications()">
+                <i class="fas fa-chevron-down"></i>
+                <span>Show More Publications</span>
+            </button>
+        </div>
+        
+        <div class="publications-footer">
+            <div class="pub-count">
+                Showing <span id="visibleCount">10</span> of {{ site.data.publications.stats.total_papers }} publications
+            </div>
+            <a href="{{ site.data.author.contact.google_scholar }}" class="scholar-link" target="_blank">
+                <i class="fas fa-graduation-cap"></i> Google Scholar Profile
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Awards Section -->
+<section class="awards" id="awards">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="section-title">Awards & Honors</h2>
+        </div>
+        
+        <div class="awards-content">
+            <!-- Awards & Honors -->
+            <div class="awards-category">
+                <h3 class="awards-category-title">Awards & Honors</h3>
+                <div class="awards-list-compact">
+                    {% assign sorted_awards = site.data.awards.awards | sort: 'year' | reverse %}
+                    {% for award in sorted_awards %}
+                    <div class="award-item-compact">
+                        <span class="award-year-badge">{{ award.year }}</span>
+                        <div class="award-details">
+                            <span class="award-title">{{ award.title }}</span>
+                            <span class="award-org">{{ award.organization }}</span>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            
+            <!-- Competitions -->
+            <div class="awards-category">
+                <h3 class="awards-category-title">Competitions</h3>
+                <div class="awards-list-compact">
+                    {% assign sorted_competitions = site.data.awards.competitions | sort: 'year' | reverse %}
+                    {% for competition in sorted_competitions %}
+                    <div class="award-item-compact">
+                        <span class="award-year-badge">{{ competition.year }}</span>
+                        <div class="award-details">
+                            <span class="award-title">{{ competition.title }}{% if competition.track %}, {{ competition.track }}{% endif %}</span>
+                            <span class="award-org">{{ competition.rank }}</span>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Academic Services Section -->
+<section class="services" id="services">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="section-title">Academic & Social Services</h2>
+        </div>
+        
+        <div class="services-content">
+            <!-- Leadership Roles -->
+            <div class="service-category">
+                <h3 class="service-category-title">Conference Leadership</h3>
+                <div class="service-items">
+                    {% for leadership in site.data.services.conference_journal_reviewer.leadership_roles %}
+                    <div class="service-item">
+                        <span class="service-role">{{ leadership.role }}</span>
+                        <span class="service-venues">
+                            {% for venue in leadership.venues %}
+                                <span class="venue-tag">{{ venue }}</span>{% unless forloop.last %}, {% endunless %}
+                            {% endfor %}
+                        </span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Workshop Chairs -->
+            <div class="service-category">
+                <h3 class="service-category-title">Workshop Organization</h3>
+                <div class="service-items">
+                    {% for chair in site.data.services.conference_journal_reviewer.workshop_chairs %}
+                    <div class="service-item">
+                        <span class="service-role">{{ chair.role }}</span>
+                        <span class="service-year">({{ chair.year }})</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Conference Reviews -->
+            <div class="service-category">
+                <h3 class="service-category-title">Conference Reviewer</h3>
+                <div class="service-venues-list">
+                    {% for venue in site.data.services.conference_journal_reviewer.conference_reviews.venues %}
+                        <span class="venue-pill">{{ venue }}</span>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Journal Reviews -->
+            <div class="service-category">
+                <h3 class="service-category-title">Journal Reviewer</h3>
+                <div class="service-venues-list">
+                    {% for venue in site.data.services.conference_journal_reviewer.journal_reviews.venues %}
+                        <span class="venue-pill journal">{{ venue }}</span>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Mentorship Section -->
+<section class="mentorship" id="mentorship">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="section-title">Mentorship</h2>
+            <p class="section-subtitle">{{ site.data.mentorship.intro }}</p>
+        </div>
+        
+        <div class="mentorship-content">
+            <div class="students-grid">
+                {% for student in site.data.mentorship.students %}
+                <div class="student-card">
+                    <div class="student-header">
+                        <div class="student-avatar" style="background-color: {{ student.avatar_color }}">
+                            <span class="avatar-initials">{{ student.name | slice: 0 }}</span>
+                        </div>
+                        <div class="student-info">
+                            <h3 class="student-name">{{ student.name }}</h3>
+                            <div class="student-name-en">{{ student.name_en }}</div>
+                        </div>
+                    </div>
+                    <div class="student-details">
+                        <span class="student-affiliation">{{ student.affiliation }}</span>
+                        <span class="student-level">{{ student.level }}</span>
+                    </div>
+                    <p class="student-achievement">{{ student.achievement }}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Join Us Section -->
+{% if site.data.openings.recruiting %}
+<section class="openings" id="openings">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="section-title">Join Us</h2>
+            <p class="section-subtitle">{{ site.data.openings.recruiting_message }}</p>
+        </div>
+        
+        <div class="openings-content">
+            <div class="positions">
+                <h3>Available Positions</h3>
+                <div class="positions-grid">
+                    {% for position in site.data.openings.positions %}
+                    <div class="position-card">
+                        <h4>{{ position.type }}</h4>
+                        <div class="position-count">{{ position.available }} openings</div>
+                        <p>{{ position.description }}</p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            
+            <div class="requirements">
+                <h3>What I'm Looking For</h3>
+                <ul class="requirements-list">
+                    {% for requirement in site.data.openings.student_expectations %}
+                    <li>{{ requirement }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            
+            <div class="research-directions">
+                <h3>Research Directions</h3>
+                <div class="directions-grid">
+                    {% for direction in site.data.openings.research_directions %}
+                    <div class="direction-card">
+                        <div class="direction-icon">{{ direction.icon }}</div>
+                        <h4>{{ direction.title }}</h4>
+                        <p>{{ direction.description }}</p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            
+            <div class="application-process">
+                <h3>Application Process</h3>
+                <div class="process-steps">
+                    {% for step in site.data.openings.application_process %}
+                    <div class="process-step">
+                        <div class="step-number">{{ step.step }}</div>
+                        <div class="step-content">
+                            <h4>{{ step.title }}</h4>
+                            <p>{{ step.description }}</p>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            
+            <div class="contact-cta">
+                <h3>Ready to Apply?</h3>
+                <p>{{ site.data.openings.contact_info.response_time }}</p>
+                <a href="mailto:{{ site.data.openings.contact_info.email }}?subject={{ site.data.openings.contact_info.subject_line | url_encode }}" 
+                   class="cta-button">
+                    <i class="fas fa-envelope"></i> Send Application
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
