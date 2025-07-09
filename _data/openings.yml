@@ -39,7 +39,7 @@ research_directions:
     icon: "🔍"
   - title: "Satellite Intelligent Computing"
     description: "Developing on-board AI algorithms and edge computing frameworks to enable real-time data processing and decision-making in satellite systems."
-    icon: "🔍"
+    icon: "🛰️"
     
 # 申请流程
 application_process:
