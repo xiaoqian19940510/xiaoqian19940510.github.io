@@ -23,7 +23,7 @@ research_interests:
 
 # 个人简介
 bio: |
-  I am currently at BUPT working in collaboration with Prof. Shangguang Wang (IET Fellow). I received my Ph.D. degree in 2024 from Beihang University (BUAA), my M.S. degree from BUPT in 2019, 
+  I am currently at BUPT working in collaboration with <a href=https://teacher.bupt.edu.cn/sgwang/zh_CN/index.htm>Prof. Shangguang Wang</a> (IET Fellow). I received my Ph.D. degree in 2024 from Beihang University (BUAA), my M.S. degree from BUPT in 2019, 
   and my B.S. degree from Central South University (CSU) in 2016. I have published about 30 papers in CCF-A/B papers, including NeurIPS, WWW, IJCAI, ACL, and MM. Google Scholar citations exceed 2,500. 
   
   I won the ESI Highly Cited Papers, Best Paper Nomination at CIKM 2022, the IEEE TCCLD 2024 Technical Innovation Award, First Prize for Scientific and Technological Progress from the State Grid Big Data Center. 
@@ -36,10 +36,10 @@ bio: |
 
 # 指导理念
 mentorship_philosophy: |
-  我正在寻找自驱力较强的学生、实习生，与王尚广教授共同指导，目标是在多模态大模型、知识计算、遥感影像解译、卫星计算等课题上做出有影响力的工作。
-  请随时通过电子邮件与我联系。
+  <span style="font-weight: bold;">我正在寻找自驱力较强的学生、实习生，与<a href=https://teacher.bupt.edu.cn/sgwang/zh_CN/index.htm>王尚广教授</a>共同指导</span>，目标是在多模态大模型、知识计算、遥感影像解译、卫星计算等课题上做出有影响力的工作。
+  <span style="font-weight: bold;">请随时通过电子邮件与我联系。</span>
   
-  I am currently seeking self-motivated students and interns to co-supervise with Professor Shangguang Wang. Our goal is to conduct impactful research in areas such as multimodal LLM, knowledge computing, remote sensing image interpretation, and satellite computing. Please feel free to contact me via email at any time.
+  I am currently seeking self-motivated students and interns to co-supervise with <a href=https://teacher.bupt.edu.cn/sgwang/zh_CN/index.htm>Prof. Shangguang Wang</a>. Our goal is to conduct impactful research in areas such as multimodal LLM, knowledge computing, remote sensing image interpretation, and satellite computing. Please feel free to contact me via email at any time.
 
 # 教育经历
 education:
