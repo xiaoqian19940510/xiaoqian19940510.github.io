@@ -36,7 +36,7 @@ research_directions:
     icon: "🤖"
   - title: "Remote Sensing Image Interpretation"
     description: "Leveraging deep learning and computer vision techniques to analyze and interpret satellite and aerial imagery for environmental monitoring, urban planning, and disaster response."
-    icon: "🔍"
+    icon: "🌍"
   - title: "Satellite Intelligent Computing"
     description: "Developing on-board AI algorithms and edge computing frameworks to enable real-time data processing and decision-making in satellite systems."
     icon: "🛰️"
