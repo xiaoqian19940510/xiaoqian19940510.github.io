@@ -5,6 +5,7 @@ awards:
     year: 2022
     type: "Academic Award"
     featured: true
+    icon: "🏆"
     
   - title: "ESI Highly Cited Papers"
     organization: "ACM TIST"
