@@ -40,7 +40,7 @@ students:
     name_en: Jia Liu
     affiliation: 计算机学院
     level: 北邮计算机博士生
-    achievement: 指导论文投稿至 NeurIPS 2025（CCF-A）
+    achievement: 指导论文投稿至 NeurIPS 2025（CCF-A），获全国智能车竞赛三等奖
     avatar_color: "#3B82F6"  # 天空蓝
 
   - name: 朱鲁豫
@@ -54,5 +54,5 @@ students:
     name_en: Liping Song
     affiliation: 计算机学院
     level: 北邮计算机研究生
-    achievement: 指导XXX
+    achievement: 参与国家级大创
     avatar_color: "#14B8A6"  # 青绿色
