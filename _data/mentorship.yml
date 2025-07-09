@@ -33,7 +33,7 @@ students:
     name_en: Zhe Wang
     affiliation: 计算机学院
     level: 北邮计算机博士生
-    achievement: 指导论文计划投稿AAAI 2025（CCF-A）
+    achievement: 指导论文计划投稿AAAI 2025（CCF-A），研究遥感大模型方向
     avatar_color: "#8B5CF6"  # 淡雅紫罗兰
 
   - name: 刘佳
@@ -47,7 +47,7 @@ students:
     name_en: Luyu Zhu
     affiliation: 计算机学院
     level: 北邮计算机研究生
-    achievement: 指导XXX
+    achievement: 研究RAG方向
     avatar_color: "#EC4899"  # 柔和玫瑰粉
 
   - name: 宋丽萍
