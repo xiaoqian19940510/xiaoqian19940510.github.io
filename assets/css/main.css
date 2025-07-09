@@ -1217,7 +1217,7 @@ body {
 }
 
 .award-org {
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-lg);
   color: var(--text-secondary);
   font-weight: 400;
 }
