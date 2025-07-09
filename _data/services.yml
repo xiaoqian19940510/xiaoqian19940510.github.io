@@ -4,9 +4,7 @@ conference_journal_reviewer:
   leadership_roles:
     - role: "Area Chair"
       venues: ["NeurIPS", "ACL Rolling", "CCL"]
-    - role: "Meta-Reviewer"
-      venues: ["IJCAI"]
-    - role: "Session Chair"
+    - role: "Session Chair and Meta-Reviewer"
       venues: ["IJCAI"]
     - role: "Young Editorial Board Member"
       venues: ["JAICS", "BDIA"]
