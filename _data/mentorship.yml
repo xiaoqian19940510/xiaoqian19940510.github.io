@@ -6,53 +6,53 @@ students:
     affiliation: 未来学院
     level: 本科生
     achievement: 指导他获北京市自然科学基金本科生"启研"计划
-    avatar_color: "#4F46E5"
-    
+    avatar_color: "#6366F1"  # 柔和靛蓝色
+
   - name: 常宗煜
     name_en: Chang Zongyu
     affiliation: 研究生
     level: 多模态大模型方向
     achievement: 指导论文发表在IJCAI 2025（CCF-A）
-    avatar_color: "#059669"
-    
+    avatar_color: "#10B981"  # 清新薄荷绿
+
   - name: 李旭宸
     name_en: Li Xuchen
     affiliation: 北邮计算机第一
     level: 毕业去中科院自动化所读博
     achievement: 指导论文发表在IJCAI 2025（CCF-A）
-    avatar_color: "#DC2626" 
+    avatar_color: "#F59E0B"  # 温暖琥珀黄
 
   - name: 张宇峥
     name_en: Yuzheng Zhang
     affiliation: 国际学院
     level: 本科生
     achievement: 指导论文发表在ACM MM 2025 and IJCAI 2025（CCF-A）
-    avatar_color: "#DC2626" 
+    avatar_color: "#EF4444"  # 明亮珊瑚红
 
   - name: 王哲
     name_en: Zhe Wang
     affiliation: 计算机学院
     level: 北邮计算机博士生
     achievement: 指导论文计划投稿AAAI 2025（CCF-A）
-    avatar_color: "#DC2626" 
+    avatar_color: "#8B5CF6"  # 淡雅紫罗兰
 
   - name: 刘佳
     name_en: Jia Liu
     affiliation: 计算机学院
     level: 北邮计算机博士生
     achievement: 指导论文投稿至 NeurIPS 2025（CCF-A）
-    avatar_color: "#DC2626" 
+    avatar_color: "#3B82F6"  # 天空蓝
 
   - name: 朱鲁豫
     name_en: Luyu Zhu
     affiliation: 计算机学院
     level: 北邮计算机研究生
     achievement: 指导XXX
-    avatar_color: "#DC2626" 
+    avatar_color: "#EC4899"  # 柔和玫瑰粉
 
   - name: 宋丽萍
     name_en: Liping Song
     affiliation: 计算机学院
     level: 北邮计算机研究生
     achievement: 指导XXX
-    avatar_color: "#DC2626" 
+    avatar_color: "#14B8A6"  # 青绿色
