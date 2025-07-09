@@ -26,19 +26,19 @@ student_expectations:
 # 研究方向
 research_directions:
   - title: "Knowledge Graph Construction and Reasoning"
-    description: "Developing methods for automatic knowledge graph construction and multi-hop reasoning"
+    description: "Exploring automatic knowledge graph construction and multi-hop reasoning"
     icon: "🧠"
   - title: "Multimodal Information Extraction"
     description: "Extracting structured information from text, images, and videos"
     icon: "🔍"
   - title: "Multimodal Large Language Models"
-    description: "Exploring the integration of vision, language, and other modalities to build intelligent systems capable of cross-modal understanding and reasoning"
+    description: "Exploring cross-modal understanding and reasoning among vision, text, and other modalities "
     icon: "🤖"
   - title: "Remote Sensing Image Interpretation"
-    description: "Leveraging deep learning and computer vision techniques to analyze and interpret satellite and aerial imagery for environmental monitoring, urban planning, and disaster response."
+    description: "Analyzing and interpreting satellite and aerial imagery for environmental monitoring and disaster."
     icon: "🌍"
   - title: "Satellite Intelligent Computing"
-    description: "Developing on-board AI algorithms and edge computing frameworks to enable real-time data processing and decision-making in satellite systems."
+    description: "Developing on-board AI algorithms and edge computing frameworks for real-time satellite systems."
     icon: "🛰️"
     
 # 申请流程
