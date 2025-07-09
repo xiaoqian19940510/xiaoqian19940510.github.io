@@ -469,10 +469,10 @@ body {
 }
 
 .mentorship h3 {
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-lg);
   color: var(--text-primary);
   margin-bottom: var(--space-4);
-  margin-top: var(--space-6);
+/*   margin-top: var(--space-3); */
 }
 
 .about-sidebar {
