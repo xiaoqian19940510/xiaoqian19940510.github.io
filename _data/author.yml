@@ -22,8 +22,8 @@ research_interests:
 
 # 个人简介
 bio: |
-  I am Qian Li (李倩), currently at Beijing University of Posts and Telecommunications (BUPT), working in collaboration with Prof. Shangguang Wang (IET Fellow). 
-  I received my Ph.D. degree in 2024 from Beihang University (BUAA), my M.S. degree from BUPT in 2019, and my B.S. degree from Central South University (CSU) in 2016.
+  I am currently at Beijing University of Posts and Telecommunications (BUPT), working in collaboration with Prof. Shangguang Wang (IET Fellow). 
+  # I received my Ph.D. degree in 2024 from Beihang University (BUAA), my M.S. degree from BUPT in 2019, and my B.S. degree from Central South University (CSU) in 2016.
 
   I have published about 30 papers in CCF-A/B papers, including TASLP, TNNLS, NeurIPS, WWW, IJCAI, ACL, and MM. Google Scholar citations exceed 2,500. 
   
@@ -45,5 +45,16 @@ mentorship_philosophy: |
   
   I am currently seeking self-motivated students (Master's students for Spring and Fall 2025/2026, and PhD students for Spring and Fall 2026) and interns to co-supervise with Professor Shangguang Wang. Our goal is to conduct impactful research in areas such as multimodal large models, multimodal knowledge computing, remote sensing image interpretation, and multimodal satellite computing. Please feel free to contact me via email at any time.
 
-  
+# 教育经历
+education:
+  - degree: "Ph.D. in Computer Science"
+    institution: "Beihang University (BUAA)"
+    year: "2024"
+  - degree: "M.S. in Computer Science"
+    institution: "Beijing University of Posts and Telecommunications (BUPT)"
+    year: "2019"
+  - degree: "B.S. in Computer Science"
+    institution: "Central South University (CSU)"
+    year: "2016" 
+
 
