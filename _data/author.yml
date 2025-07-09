@@ -1,7 +1,7 @@
 # 作者基本信息
 name: "Qian Li"
 name_chinese: "李倩"
-title: "Postdoc. in Knowledge Graph"
+title: "Research on Multi-modal Knowledge Computing and Satellite Application"
 affiliation: "Beijing University of Posts and Telecommunications (BUPT)"
 location: "Beijing, China"
 
@@ -16,19 +16,17 @@ photo: "/assets/images/qian_li.jpg"
 
 # 研究兴趣
 research_interests:
-  - "Natural Language Processing"
+  - "Multi-modal LLM"
   - "Knowledge Graph"
-  - "Multi-modal Machine Learning"
+  - "Satellite Computing"
 
 # 个人简介
 bio: |
-  I am Qian Li (李倩), currently a postdoctoral researcher at Beijing University of Posts and Telecommunications (BUPT). 
-  I received my Ph.D. degree in 2024 from Beihang University (BUAA), my M.S. degree from BUPT in 2019, 
-  and my B.S. degree from Central South University (CSU) in 2016.
+  I am Qian Li (李倩), currently at Beijing University of Posts and Telecommunications (BUPT), working in collaboration with Prof. Shangguang Wang (IET Fellow). 
+  I received my Ph.D. degree in 2024 from Beihang University (BUAA), my M.S. degree from BUPT in 2019, and my B.S. degree from Central South University (CSU) in 2016.
   
   My research focused on natural language processing, knowledge graph and multi-modal machine learning. 
-  I have published extensively in top-tier conferences and journals such as WWW, ACL, IJCAI, AAAI, ACMMM, CIKM, TASLP, and TNNLS, 
-  with many of them as the first author.
+ 
 
 # 指导理念
 mentorship_philosophy: |
@@ -37,13 +35,13 @@ mentorship_philosophy: |
   If you are interested in discussing or collaborating with me, please feel free to contact me.
 
 # 教育经历
-education:
-  - degree: "Ph.D. in Computer Science"
-    institution: "Beihang University (BUAA)"
-    year: "2024"
-  - degree: "M.S. in Computer Science"
-    institution: "Beijing University of Posts and Telecommunications (BUPT)"
-    year: "2019"
-  - degree: "B.S. in Computer Science"
-    institution: "Central South University (CSU)"
-    year: "2016" 
+# education:
+#   - degree: "Ph.D. in Computer Science"
+#     institution: "Beihang University (BUAA)"
+#     year: "2024"
+#   - degree: "M.S. in Computer Science"
+#     institution: "Beijing University of Posts and Telecommunications (BUPT)"
+#     year: "2019"
+#   - degree: "B.S. in Computer Science"
+#     institution: "Central South University (CSU)"
+#     year: "2016" 
