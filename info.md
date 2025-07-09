@@ -7,7 +7,7 @@
 Qian Li / 李倩
 Qian Li / 李倩
 
-postdoc. in Knowledge Graph Beijing University of Posts and Telecommunications (BUPT) li.qian@bupt.edu.cn
+Beijing University of Posts and Telecommunications (BUPT) li.qian@bupt.edu.cn
 
     Beijing, China
     Email
