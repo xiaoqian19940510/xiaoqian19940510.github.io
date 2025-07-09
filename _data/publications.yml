@@ -237,7 +237,7 @@ papers:
     url: "#"
 
   - title: "A comprehensive survey on pretrained foundation models: A history from bert to chatgpt"
-    authors: ["Ce Zhou", "Qian Li", "Chen Li", "Jun Yu", "Yixin Liu", "Guangjing Wang", "Kai Zhang", "Cheng Ji", "Qiben Yan", "Lifang He", "Hao Peng", "Jianxin Li", "Jia Wu", "Ziwei Liu", "Pengtao Xie", "Caiming Xiong", "Jian Pei", "Philip S Yu", "Lichao Sun"]
+    authors: ["Ce Zhou", "Qian Li*", "Chen Li", "Jun Yu", "Yixin Liu", "Guangjing Wang", "Kai Zhang", "Cheng Ji", "Qiben Yan", "Lifang He", "Hao Peng", "Jianxin Li", "Jia Wu", "Ziwei Liu", "Pengtao Xie", "Caiming Xiong", "Jian Pei", "Philip S Yu", "Lichao Sun"]
     venue: "JMLC"
     venue_full: "International Journal of Machine Learning and Cybernetics"
     year: 2024
