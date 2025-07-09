@@ -293,7 +293,9 @@ body {
   align-items: center;
 }
 
-.hero-image {
+.hero-image {   
+  width: 330px;
+  height: 330px;
   text-align: center;
 }
 
