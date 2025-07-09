@@ -36,13 +36,13 @@ Mentorship Philosophy: |
  I currently serve as a Young Editorial Board Member for the journals Journal of Artificial Intelligence and Computer Science and Big Data and Information Analytics, an Executive Committee Member of the CCF Service Computing Committee, Area Chair for the top international machine learning conference NeurIPS 2025, Area Chair for the top international natural language processing conference ACL 2025, Session Chair for the top international artificial intelligence conference IJCAI 2024, and Forum Program Chair for the top international data mining conference SIGIR 2025.
 
 # 教育经历
-# education:
-#   - degree: "Ph.D. in Computer Science"
-#     institution: "Beihang University (BUAA)"
-#     year: "2024"
-#   - degree: "M.S. in Computer Science"
-#     institution: "Beijing University of Posts and Telecommunications (BUPT)"
-#     year: "2019"
-#   - degree: "B.S. in Computer Science"
-#     institution: "Central South University (CSU)"
-#     year: "2016" 
+education:
+  - degree: "Ph.D. in Computer Science"
+    institution: "Beihang University (BUAA)"
+    year: "2024"
+  - degree: "M.S. in Computer Science"
+    institution: "Beijing University of Posts and Telecommunications (BUPT)"
+    year: "2019"
+  - degree: "B.S. in Computer Science"
+    institution: "Central South University (CSU)"
+    year: "2016" 
