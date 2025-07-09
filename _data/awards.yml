@@ -12,42 +12,49 @@ awards:
     year: 2024
     type: "Research Impact"
     featured: true
+    icon: "📈"
     
   - title: "ESI Highly Cited Papers"
     organization: "ACM TNNLS"
     year: 2025
     type: "Research Impact"
     featured: true
+    icon: "📈"
     
   - title: "Travel Awards"
     organization: "WWW 2023"
     year: 2023
     type: "Conference Award"
     featured: false
+    icon: "✈️"
     
   - title: "Technical Innovation Award"
     organization: "IEEE Computer Society TCCLD"
     year: 2024
     type: "Technical Award"
     featured: true
+    icon: "💡"
     
   - title: "Outstanding Graduates of Beijing"
     organization: "Beijing Municipal Government"
     year: 2024
     type: "Academic Achievement"
     featured: true
+    icon: "🎓"
     
   - title: "Outstanding Academic Innovation Achievement Award"
     organization: "Beihang University"
     year: 2023
     type: "Academic Achievement"
     featured: false
+    icon: "🔬"
     
   - title: "Innovation Scholarship"
     organization: "School of Computer Science, Beihang University"
     year: 2023
     type: "Scholarship"
     featured: false
+    icon: "💰"
 
 # 竞赛成果
 competitions:
@@ -56,24 +63,29 @@ competitions:
     rank: "Top 1"
     year: 2021
     featured: true
+    icon: "🥇"
     
   - title: "CCKS 2021 Fine-grained Event Detection Competition"
     rank: "Top 1"
     year: 2021
     featured: true
+    icon: "🥇"
     
   - title: "CCKS 2020 Few-shot Cross-domain Event Extraction Competition"
     rank: "Top 1"
     year: 2020
     featured: true
+    icon: "🥇"
     
   - title: "China International College Student Innovation Competition"
     rank: "National Silver Award"
     year: 2023
     featured: true
+    icon: "🥈"
     
   - title: "Chint Cup 2022"
     track: "The 7th China Graduate Contest on Smart-city Technology and Creative Design"
     rank: "Top 2"
     year: 2022
     featured: false
+    icon: "🥈"
