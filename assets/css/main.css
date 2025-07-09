@@ -468,7 +468,7 @@ body {
   margin-bottom: var(--space-4);
 }
 
-.mentorship h3 {
+.mentorship {
   font-size: var(--font-size-lg);
   color: var(--text-primary);
   margin-bottom: var(--space-4);
