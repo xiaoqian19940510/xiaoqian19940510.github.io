@@ -55,16 +55,16 @@ title: "Home"
             <h2 class="section-title">About Me</h2>
         </div>
         <div class="about-content">
-            <div class="about-text" style="width: 100%;">
+            <!-- 只保留 about-text，移除 about-sidebar -->
+            <div class="about-text" style="flex: 1 1 100%; max-width: 100%;">
                 <div class="bio">
                     {{ site.data.author.bio | markdownify }}
                 </div>
                 <div class="mentorship">
-                    <h2>Mentorship Philosophy</h2>
+                    <h3>Mentorship Philosophy</h3>
                     {{ site.data.author.mentorship_philosophy | markdownify }}
                 </div>
             </div>
-            <!-- 去掉了 about-sidebar 和 education 部分 -->
         </div>
     </div>
 </section>
