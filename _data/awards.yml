@@ -21,12 +21,12 @@ awards:
     featured: true
     icon: "📈"
     
-  - title: "Travel Awards"
-    organization: "WWW 2023"
-    year: 2023
-    type: "Conference Award"
-    featured: false
-    icon: "✈️"
+  # - title: "Travel Awards"
+  #   organization: "WWW 2023"
+  #   year: 2023
+  #   type: "Conference Award"
+  #   featured: false
+  #   icon: "✈️"
     
   - title: "Technical Innovation Award"
     organization: "IEEE Computer Society TCCLD"
@@ -47,14 +47,14 @@ awards:
     year: 2023
     type: "Academic Achievement"
     featured: false
-    icon: "🔬"
+    icon: "🎓"
     
   - title: "Innovation Scholarship"
     organization: "School of Computer Science, Beihang University"
     year: 2023
     type: "Scholarship"
     featured: false
-    icon: "💰"
+    icon: "🎓"
 
 # 竞赛成果
 competitions:
