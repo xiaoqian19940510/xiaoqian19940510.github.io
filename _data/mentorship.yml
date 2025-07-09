@@ -12,12 +12,47 @@ students:
     name_en: Chang Zongyu
     affiliation: 研究生
     level: 多模态大模型方向
-    achievement: 论文发表在IJCAI 2025
+    achievement: 指导论文发表在IJCAI 2025（CCF-A）
     avatar_color: "#059669"
     
   - name: 李旭宸
     name_en: Li Xuchen
     affiliation: 北邮计算机第一
     level: 毕业去中科院自动化所
-    achievement: 论文发表在IJCAI 2025
+    achievement: 指导论文发表在IJCAI 2025（CCF-A）
+    avatar_color: "#DC2626" 
+
+  - name: 张宇峥
+    name_en: Yuzheng Zhang
+    affiliation: 国际学院
+    level: 本科生
+    achievement: 指导论文发表在ACM MM 2025 and IJCAI 2025（CCF-A）
+    avatar_color: "#DC2626" 
+
+  - name: 王哲
+    name_en: Zhe Wang
+    affiliation: 计算机学院
+    level: 北邮计算机博0
+    achievement: 指导论文计划投稿AAAI 2025（CCF-A）
+    avatar_color: "#DC2626" 
+
+  - name: 刘佳
+    name_en: Jia Liu
+    affiliation: 计算机学院
+    level: 北邮计算机博0
+    achievement: 指导论文投稿至 NeurIPS 2025（CCF-A）
+    avatar_color: "#DC2626" 
+
+  - name: 朱鲁豫
+    name_en: Luyu Zhu
+    affiliation: 计算机学院
+    level: 北邮计算机研0
+    achievement: 指导XXX
+    avatar_color: "#DC2626" 
+
+  - name: 宋丽萍
+    name_en: Liping Song
+    affiliation: 计算机学院
+    level: 北邮计算机研0
+    achievement: 指导XXX
     avatar_color: "#DC2626" 
