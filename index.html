@@ -94,7 +94,8 @@ title: "Home"
         <div class="news-list">
             {% assign recent_posts = site.posts | limit: 5 %}
             {% for post in recent_posts %}
-            <div class="news-item" onclick="window.location.href='{{ post.url | relative_url }}'">
+<!--             onclick="window.location.href='{{ post.url | relative_url }}'" -->
+            <div class="news-item"> 
                 <div class="news-header">
                     <div class="news-date">{{ post.date | date: "%b %d, %Y" }}</div>
                     <h3 class="news-title">
