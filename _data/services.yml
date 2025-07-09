@@ -18,7 +18,7 @@ conference_journal_reviewer:
       year: "2025"
   
   conference_reviews:
-    venues: ["ACL", "NeurIPS", "ICML", "ICLR", "SIGIR", "KDD", "ACMMM", "IJCAI", "AAAI", "EMNLP", "COLING", "CIKM", "ECAI", "CCL", "NLPCC", "CCKS"]
+    venues: ["ACL", "NeurIPS", "ICML", "ICLR", "SIGIR", "KDD", "ACMMM", "IJCAI", "AAAI", "EMNLP", "COLING", "CIKM", "WSDM", "ECAI", "CCL", "NLPCC", "CCKS"]
   
   journal_reviews:
     venues: ["IEEE TKDE", "IEEE TOIS", "IEEE TKDD", "ACM Computing Surveys", "Knowledge-Based Systems", "Information Fusion"] 
