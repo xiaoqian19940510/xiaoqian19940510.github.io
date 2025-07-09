@@ -1210,7 +1210,7 @@ body {
 }
 
 .award-title {
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-lg);
   font-weight: 600;
   color: var(--text-primary);
   flex-shrink: 0;
