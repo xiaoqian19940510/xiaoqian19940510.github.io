@@ -18,7 +18,7 @@ students:
   - name: 李旭宸
     name_en: Li Xuchen
     affiliation: 北邮计算机第一
-    level: 毕业去中科院自动化所
+    level: 毕业去中科院自动化所读博
     achievement: 指导论文发表在IJCAI 2025（CCF-A）
     avatar_color: "#DC2626" 
 
@@ -32,27 +32,27 @@ students:
   - name: 王哲
     name_en: Zhe Wang
     affiliation: 计算机学院
-    level: 北邮计算机博0
+    level: 北邮计算机博士生
     achievement: 指导论文计划投稿AAAI 2025（CCF-A）
     avatar_color: "#DC2626" 
 
   - name: 刘佳
     name_en: Jia Liu
     affiliation: 计算机学院
-    level: 北邮计算机博0
+    level: 北邮计算机博士生
     achievement: 指导论文投稿至 NeurIPS 2025（CCF-A）
     avatar_color: "#DC2626" 
 
   - name: 朱鲁豫
     name_en: Luyu Zhu
     affiliation: 计算机学院
-    level: 北邮计算机研0
+    level: 北邮计算机研究生
     achievement: 指导XXX
     avatar_color: "#DC2626" 
 
   - name: 宋丽萍
     name_en: Liping Song
     affiliation: 计算机学院
-    level: 北邮计算机研0
+    level: 北邮计算机研究生
     achievement: 指导XXX
     avatar_color: "#DC2626" 
