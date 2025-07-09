@@ -20,23 +20,23 @@ research_interests:
   - "Knowledge Graph"
   - "Satellite Computing"
 
-# 指导理念
-Mentorship Philosophy: |  
-  我正在寻找自驱力较强的学生（硕士 2025/2026 年春季和秋季，博士 2026 年春季和秋季）、实习生，与王尚广教授共同指导，目标是在多模态大模型、多模态知识计算、遥感影像解译、多模态卫星计算等课题上做出有影响力的工作。请随时通过电子邮件与我联系。
-  
-  I am currently seeking self-motivated students (Master's students for Spring and Fall 2025/2026, and PhD students for Spring and Fall 2026) and interns to co-supervise with Professor Shangguang Wang. Our goal is to conduct impactful research in areas such as multimodal large models, multimodal knowledge computing, remote sensing image interpretation, and multimodal satellite computing. Please feel free to contact me via email at any time.
- 
-
 # 个人简介
- Short Biography:
- - I am Qian Li (李倩), currently at Beijing University of Posts and Telecommunications (BUPT), working in collaboration with Prof. Shangguang Wang (IET Fellow). 
- I received my Ph.D. degree in 2024 from Beihang University (BUAA), my M.S. degree from BUPT in 2019, and my B.S. degree from Central South University (CSU) in 2016.
- 
- I have published about 30 papers in CCF-A/B ranked journals and conferences recommended by the China Computer Federation, including TASLP, TNNLS, NeurIPS, WWW, IJCAI, ACL, and MM, with 15 as first-author publications. Google Scholar citations exceed 2,500. 
- I won the ESI Highly Cited Papers, Best Paper Nomination at CIKM 2022, the IEEE TCCLD 2024 Technical Innovation Award, WWW 2023 Travel Award, First Prize for Scientific and Technological Progress from the State Grid Big Data Center, and the Beijing Outstanding Graduate Award. 
- I also won the global championship at the renowned 2022 CodaLab Challenge, achieved first prizes at the National Conference on Knowledge Graph and Semantic Computing for two consecutive years, and received the National Silver Award at the China "Internet Plus" Innovation and Entrepreneurship Competition.
- I currently serve as a Young Editorial Board Member for the journals Journal of Artificial Intelligence and Computer Science and Big Data and Information Analytics, an Executive Committee Member of the CCF Service Computing Committee, Area Chair for the top international machine learning conference NeurIPS 2025, Area Chair for the top international natural language processing conference ACL 2025, Session Chair for the top international artificial intelligence conference IJCAI 2024, and Forum Program Chair for the top international data mining conference SIGIR 2025.
+bio: |
+  I am Qian Li (李倩), currently a postdoctoral researcher at Beijing University of Posts and Telecommunications (BUPT). 
+  I received my Ph.D. degree in 2024 from Beihang University (BUAA), my M.S. degree from BUPT in 2019, 
+  and my B.S. degree from Central South University (CSU) in 2016.
+  
+  My research focused on natural language processing, knowledge graph and multi-modal machine learning. 
+  I have published a total of 31 papers in conferences/journals such as WWW, ACL, IJCAI, AAAI, ACMMM, CIKM, TASLP, and TNNLS, 
+  with 14 of them as the first author.
 
+# 指导理念
+mentorship_philosophy: |
+  I believe in fostering independent thinking while providing structured guidance. 
+  I encourage students to explore cutting-edge research areas and develop both technical skills and academic writing abilities.
+  If you are interested in discussing or collaborating with me, please feel free to contact me.
+
+  
 # 教育经历
 education:
   - degree: "Ph.D. in Computer Science"
