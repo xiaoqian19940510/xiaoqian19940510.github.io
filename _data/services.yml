@@ -8,6 +8,8 @@ conference_journal_reviewer:
       venues: ["IJCAI"]
     - role: "Session Chair"
       venues: ["IJCAI"]
+    - role: "Young Editorial Board Member"
+      venues: ["JAICS", "BDIA"]
   
   workshop_chairs:
     - role: "SIGIR 2025 Workshop Program Chair"
@@ -18,7 +20,7 @@ conference_journal_reviewer:
       year: "2025"
   
   conference_reviews:
-    venues: ["ACL", "NIPS", "ICLR", "SIGIR", "KDD", "ACMMM", "IJCAI", "AAAI", "EMNLP", "COLING", "CIKM", "ECAI", "CCL", "NLPCC", "CCKS"]
+    venues: ["ACL", "NeurIPS", "ICML", "ICLR", "SIGIR", "KDD", "ACMMM", "IJCAI", "AAAI", "EMNLP", "COLING", "CIKM", "ECAI", "CCL", "NLPCC", "CCKS"]
   
   journal_reviews:
-    venues: ["IEEE TKDE", "IEEE TOIS", "IEEE TKDD", "ACM Computing Surveys", "Knowledge-Based Systems"] 
+    venues: ["IEEE TKDE", "IEEE TOIS", "IEEE TKDD", "ACM Computing Surveys", "Knowledge-Based Systems", "Information Fusion"] 
